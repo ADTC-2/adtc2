@@ -13,10 +13,8 @@ if (isset($_POST['nome']) && empty($_POST['nome']) == false) {
  	 $sql = $pdo->query("SELECT * FROM usuarios WHERE nome='$nome' AND senha='$senha' AND nivel='$nivel');
 
 if($sql->rowCount() > 0) {
-
-     foreach($sql->fetchAll() as $linhas){    
- 	 
-          
+     foreach($sql->fetchAll() as $linhas){   
+ 	           
           session_regenerate_id();
 
           $_SESSION['email']  = $linhas['nome'];
@@ -25,17 +23,11 @@ if($sql->rowCount() > 0) {
 
 
           if ($_SESSION['nivel'] === "admin") {
-               header('Location:index.php');
-          }else if ($_SESSION['nivel'] === "apoio"){
-               header('Location:index_secretario.php');  
-          }else{
-               header('Location:index_tesoureiro.php');  
+             header('Location:index.php');
+          } else {
+             header('Location:index_secretario.php'); 
           }
-
-   
-}
-           
-
+        
 }else{
 
         session_destroy();
