@@ -6,15 +6,18 @@ session_start();
 
 if (isset($_POST['nome']) && empty($_POST['nome']) == false) {
 
-	$nome = addslashes($_POST['nome']);
-	$senha = md5(addslashes($_POST['senha']));
-     $nivel = addslashes($_POST['nivel']);
-} 	
- 	 $sql = $pdo->query("SELECT * FROM usuarios WHERE nome='$nome' AND senha='$senha' AND nivel='$nivel');
+     $nome = addslashes($_POST['nome']);
+
+     $senha = md5(addslashes($_POST['senha']));
+
+}    
+      $sql = $pdo->query("SELECT * FROM usuarios WHERE nome='$nome' AND senha='$senha'");
 
 if($sql->rowCount() > 0) {
-     foreach($sql->fetchAll() as $linhas){   
- 	           
+
+     foreach($sql->fetchAll() as $linhas){    
+      
+          
           session_regenerate_id();
 
           $_SESSION['email']  = $linhas['nome'];
@@ -23,11 +26,15 @@ if($sql->rowCount() > 0) {
 
 
           if ($_SESSION['nivel'] === "admin") {
-             header('Location:index.php');
-          } else {
-             header('Location:index_secretario.php'); 
+               header('Location:index.php');
+          }else{
+               header('Location:login_erro.php');  
           }
-        
+
+   
+}
+           
+
 }else{
 
         session_destroy();
@@ -40,4 +47,4 @@ if($sql->rowCount() > 0) {
 
 
 
-?>		
+?>   
