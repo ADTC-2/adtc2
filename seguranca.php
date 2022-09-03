@@ -8,9 +8,9 @@ if (isset($_POST['nome']) && empty($_POST['nome']) == false) {
 
 	$nome = addslashes($_POST['nome']);
 	$senha = md5(addslashes($_POST['senha']));
-    $nivel = addslashes($_POST['nivel']);
+     $nivel = addslashes($_POST['nivel']);
 } 	
- 	 $sql = $pdo->query("SELECT * FROM usuarios WHERE nome='$nome' AND senha='$senha');
+ 	 $sql = $pdo->query("SELECT * FROM usuarios WHERE nome='$nome' AND senha='$senha' AND nivel='$nivel');
 
 if($sql->rowCount() > 0) {
 
