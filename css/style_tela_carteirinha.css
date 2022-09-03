@@ -1,0 +1,328 @@
+#frente_carteira
+{  	
+  width:500px;
+  height:300px;
+  margin-top:53px;
+  margin-left:50px;
+  margin-right:0px ;
+  border-radius: 10px;
+  font-family: "Times New Roman", Times, serif; 
+  text-transform: uppercase;
+  font-size: 12px;
+ 
+ 
+}
+
+#verso_carteira
+{
+  width:500px;
+  height:300px; 
+  margin-top:336px;
+  margin-left:-492px;
+  margin-right:0px ;
+  border-radius: 10px;
+
+  
+}
+
+#foto_carteira
+{ 
+  margin-left:-181px;
+  margin-right:0px;
+  margin-top:174px;
+  padding:0px;
+
+}
+#logo
+{
+  margin-left:12px;
+  margin-top:-525px;
+  width:131px;
+  height:90px;	
+}
+#fundo
+{
+ 
+  width:500px;
+  height:300px;
+  margin-top:0px;
+  margin-left:-1px;
+  margin-right:0px ;
+  border-radius: 10px;
+  border:1px solid #ccc;
+
+
+}
+#fundo_verso
+{
+ 
+  width:500px;
+  height:300px; 
+  margin-top:-293px;
+  margin-left:501px;
+  margin-right:0px ;
+  border-radius: 10px;
+  border:1px solid #ccc;
+
+
+}
+.topo
+{
+  height:0px;
+  width:0px;
+ 
+}
+#texto_topo
+{
+  margin-top:-576px;
+  margin-left:100px;
+  width:434px;
+  height:114px;
+
+}
+#corpo_membro3
+{
+  width:50px;
+  height:50px;
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 12px; 
+  margin-top:191px;
+  text-align:left;
+  margin-left:23px;
+  text-transform: uppercase;
+  line-height:4px
+}
+#corpo
+{
+  width:50px;
+  height:50px;
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 12px; 
+  margin-top:146px;
+  text-align:left;
+  margin-left:23px;
+  text-transform: uppercase;
+  line-height:4px
+}
+#corpo_verso
+{
+
+  width:435px;
+  height:50px;  
+  margin-top:-283px;
+  margin-left:541px;
+  padding:0px;
+
+}
+
+#dados_frente
+{  
+  width:300px;
+  color:#000;
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 12px;
+  text-align:left;
+  text-transform: uppercase;
+  padding:-36px;
+  margin-top:0px; 
+}
+#dados_verso
+{  
+  width:440px;
+  color:#000; 
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 12px;
+  text-align:left;
+  text-transform: uppercase;
+  line-height:4px
+}
+#cab_cartao_membro3
+{
+  width:400px;
+  height:20px;
+  margin-top:146px;
+  margin-left:-348px;
+  color:#000; 
+  font-size:20px;
+  text-align:left;
+  text-shadow: 1px 0px 0px #FFF, 
+                 -1px 0px 0px #FFF, 
+                 0px 1px 0px #FFF, 
+                 0px -1px 0px #FFF;
+  
+
+}
+#cab_cartao
+{
+  width:400px;
+  height:20px;
+  margin-top:146px;
+  margin-left:-400px;
+  color:#000; 
+  font-size:20px;
+  text-align:left;
+  text-shadow: 1px 0px 0px #FFF, 
+                 -1px 0px 0px #FFF, 
+                 0px 1px 0px #FFF, 
+                 0px -1px 0px #FFF;
+  
+
+}
+
+#cab_maranata
+{
+  width:400px;
+  height:20px;
+  margin-top:128px;
+  margin-left:-347px;
+  color:#000; 
+  font-size:20px;
+  text-align:left;
+  text-shadow: 1px 0px 0px #FFF, 
+                 -1px 0px 0px #FFF, 
+                 0px 1px 0px #FFF, 
+                 0px -1px 0px #FFF;
+  
+
+}
+
+#cab_cartao1
+{
+  width:400px;
+  height:20px;
+  margin-top:150px;
+  margin-left:-400px;
+  color:purple; 
+  font-size:20px;
+  text-align:left;
+  text-shadow: 1px 0px 0px #FFF, 
+                 -1px 0px 0px #FFF, 
+                 0px 1px 0px #FFF, 
+                 0px -1px 0px #FFF;
+  
+
+}
+#tex_nascimento
+{
+  margin-left:126px;
+}
+#tex_estadocivil
+{
+  margin-left:129px;
+}
+#tex_batizado
+{
+  margin-top:0px; 
+}
+#tex_estadocivil
+{
+  margin-top:0px; 
+}
+#tex_documento
+{
+  margin-top:0px; 
+}
+#tex_mae
+{
+  margin-top:0px; 
+}
+#tex_pai
+{
+  margin-top:0px; 
+}
+#assinatura_imagem
+{
+  width:400px;
+  height:30px;
+  margin-top:-6px;
+  margin-left:644px; 
+}
+#assinatura
+{
+ 
+  width:317px;
+  height:32px;
+  margin-top:83px; 
+  margin-left:607px; 
+
+}
+#dados_verso1
+{
+  width:362px;
+  height:0px;
+  margin-top:-14px; 
+  margin-left:4px; 
+  color:#000; 
+  font-family: "arial black"; 
+  font-size: 12px;
+  text-align:left;
+}
+#dados_verso2
+{
+   width:317px;
+  height:32px;
+  margin-top:9px; 
+  margin-left:-13px; 
+  color:#000; 
+  font-family: "arial black"; 
+  font-size:10px;
+  text-align:left;
+}
+.central
+{
+
+  width:500px;
+  height:32px;
+  margin-top:23px; 
+  margin-left:511px; 
+  color:#000; 
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 11px;
+  text-align:left;
+  padding:26px;
+
+}
+/*CSS para impressão */
+@media print {
+
+  * {
+background:transparent !important;
+color:#000 !important;
+text-shadow:none !important;
+filter:none !important;
+-ms-filter:none !important;
+}
+
+body {
+margin:0;
+padding:0;
+line-height: 1.4em;
+}
+
+@page {
+margin: 0.5cm;
+}
+
+nav, footer, video, audio, object, embed { 
+display:none; 
+}
+
+
+
+}
+#endereco1
+{
+  width:550px;
+  height:0px;
+  margin-top:70px;
+  margin-left:-7px;
+  font-size:12px;
+  font-family: "Times New Roman", Times, serif; 
+  color:#696969;
+  text-shadow: 1px 0px 0px #FFF, 
+                 -1px 0px 0px #FFF, 
+                 0px 1px 0px #FFF, 
+                 0px -1px 0px #FFF;
+   
+    
+}

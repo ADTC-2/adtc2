@@ -1,0 +1,310 @@
+
+
+/* Configuração de páginas para impressão 
+  Tamanho A4 : Largura 1240 x 1754.
+
+*/
+
+
+.main
+{
+   width:1240px;
+   height:0px;
+   margin:auto;
+   margin-top:0px; 
+   padding:0px; 
+   border:; 
+}
+.linha
+{
+   width:1240px;
+   height:400px;   
+   margin-right:0px;
+   margin-left:0px;
+   margin-top:4px;
+   padding:0px;	
+   border: ; 
+}
+/*  */
+.frente
+{
+   float: left;
+   width:537px;
+   height:325px;
+   margin-left:78px;
+   margin-right:0px;
+   margin-top:20px; 
+   padding:0px;
+   border-radius:10px; 
+   border:1px solid #000 ; 
+}
+#logo_congregado
+{
+   width:535px;
+   height:150px;
+   margin-left:0px;
+   margin-right:0px;
+   margin-top:0px; 
+   padding:0px;
+   border-radius:10px; 
+   border: ; 
+}
+.conteudo
+{
+   width:532px;
+   height:172px;
+   margin-left:1px;
+   margin-right:0px;
+   margin-top:0px; 
+   padding:0px;   
+   border: ; 
+
+}
+
+#titulo_carteira
+{
+  height:31px;
+  margin-top:-25px;
+  margin-left:13px;
+  margin-right:0px;
+  text-align:center; 
+  line-height:38px;
+  color: #FFA500;
+  font-size: 18px;
+}
+
+.fotoEtextos
+{
+    width:526px;
+    height:160px;
+    margin-left:2px;
+    margin-right:0px;
+    margin-top:6px; 
+    padding:0px;   
+    border: ; 
+}
+
+.foto_3x4
+{
+    float:left; 
+    width:120px;
+    height:153px;
+    margin-left:2px;
+    margin-right:0px;
+    margin-top:4px; 
+    padding:0px;   
+    border: ; 
+}
+
+.info_user
+{
+   float:right; 
+   width:396px;
+   height:153px;
+   margin-left:0px;
+   margin-right:3px;
+   margin-top:4px; 
+   padding:0px; 
+   border-radius:0px; 
+   border: ; 
+
+}
+#matricula
+{
+   width:320px;
+   height:30px;
+   margin-left:2px;
+   margin-right:3px;
+   margin-top:2px; 
+   padding:2px; 
+   line-height:0px;
+   color: #FFA500; 
+ 
+   text-align:left;
+}
+.texto1
+{
+   float:left;
+   margin-left:0px;
+   margin-right:0px;
+   margin-top:0px; 
+   padding:3px; 
+   text-align: left;
+   color:#000;
+   
+  
+
+}
+#nome
+{
+   width:390px;
+   height:40px;
+   margin-left:2px;
+   margin-right:3px;
+   margin-top:-9px; 
+   padding:3px;   
+   border-radius:6px; 
+   border:1px solid #FFA500 ; 
+   }
+#cargo
+{
+   width:390px;
+   height:40px;
+   margin-left:2px;
+   margin-right:3px;
+   margin-top:4px; 
+   padding:3px; 
+   border-radius:6px; 
+   border:1px solid #FFA500 ;  
+  
+   
+}
+#congregacao
+{
+   width:390px;
+   height:40px;
+   margin-left:2px;
+   margin-right:3px;
+   margin-top:4px; 
+   padding:3px;
+   border-radius:6px; 
+   
+
+  
+}
+.texto_nome
+{
+  text-align:left;
+  line-height:10px;
+  padding:2px;
+  font-size:14px; 
+  color: #FFA500;
+}
+.mat
+{
+  text-align:left;
+  line-height:9px;
+  padding:0px;
+  margin:0px;
+
+}
+.titulo_tarja
+{
+   margin-left:0px;
+   margin-right:0px;
+   margin-top:0px; 
+   padding:0px;
+}
+.verso
+{
+   float:right; 
+   width:537px;
+   height:325px;
+   margin-left:0px;
+   margin-right:78px;
+   margin-top:20px; 
+   padding:0px; 
+   border-radius:10px; 
+   border:1px solid #000;  
+}
+.dados_user
+{
+  width:512px;	
+  margin-right:0px;
+  margin-left:10px;
+  margin-top:10px;
+  padding:10px;
+  text-align:left;
+  line-height:0px;
+   border-radius:10px; 
+  border:1px solid #FFA500;  
+
+}
+.identificacao
+{
+  margin-right:0px;
+  margin-left:10px;
+  margin-top:10px;
+  padding:0px;
+  text-align:left;
+  line-height:9px;
+}
+.dados2
+{
+  width:512px;
+  height:176px;	
+  margin-right:0px;
+  margin-left:10px;
+  margin-top:2px;
+  padding:40px;
+  text-align:justify;
+  line-height:14px;
+   border-radius:10px; 
+  border:1px solid #FFA500;  
+
+}
+.nome_pastor
+{
+	text-align:center;
+  margin-top:-15px;
+}
+
+.pesquisa
+{
+  width:1083px;
+  height:50px;
+  margin:auto;
+  margin-top:10px;  
+  padding:0px;
+  border:1px solid #ccc;  
+}
+#assinatura_imagem
+{
+ 
+   width:340px;
+  height:35px; 
+  margin-right:0px;
+  margin-left:74px;
+  margin-top:63px;
+  padding:0px;  
+
+}
+.central
+{
+
+  width:457px;
+  height:30px; 
+  margin-right:0px;
+  margin-left:0px;
+  margin-top:-26px;
+  padding:0px;
+  text-align:justify;
+  line-height:14px;
+  font-size:12px;
+}
+#meu_form
+{
+  float:left;
+  margin-left:108px;
+  margin-right:0px;
+} 
+#meu_form1
+{
+  float:left;
+  margin-left:10px;
+  margin-right:0px;
+} 
+#meu_form2
+{
+  float:left;
+  margin-left:10px;
+  margin-right:354px;
+}
+#pag1
+{
+  padding-left:148px;
+  margin-left:-110px;
+  margin-right:0px;
+  margin-top:0px;
+  width:40px;
+}

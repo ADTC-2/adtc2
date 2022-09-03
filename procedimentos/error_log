@@ -1,0 +1,289 @@
+[28-May-2019 10:29:38 America/Chicago] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/imagens/Logo.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 106
+[28-May-2019 10:29:38 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjdp80s' to 'https://tc2maranguape.com.br/sistema/imagens/Logo.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 106
+[28-May-2019 10:39:25 America/Chicago] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/imagens/Teste de Filiado.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 106
+[28-May-2019 10:39:25 America/Chicago] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoTSMa3' to 'https://tc2maranguape.com.br/sistema/imagens/Teste de Filiado.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 106
+[28-May-2019 22:28:54 America/Sao_Paulo] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/imagens/sem_foto.png): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 106
+[28-May-2019 22:28:54 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptYnTCt' to 'https://tc2maranguape.com.br/sistema/imagens/sem_foto.png' in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 106
+[28-May-2019 22:29:22 America/Sao_Paulo] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/imagens/sem_foto.png): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 106
+[28-May-2019 22:29:22 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEWvo6y' to 'https://tc2maranguape.com.br/sistema/imagens/sem_foto.png' in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 106
+[31-May-2019 20:18:31 America/Sao_Paulo] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/imagens/layriane_de_oliveira_duarte.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 106
+[31-May-2019 20:18:31 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpo5dG5h' to 'https://tc2maranguape.com.br/sistema/imagens/layriane_de_oliveira_duarte.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 106
+[14-Jun-2019 19:45:06 America/Sao_Paulo] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/imagens/vazio.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 106
+[14-Jun-2019 19:45:06 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeSjchN' to 'https://tc2maranguape.com.br/sistema/imagens/vazio.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 106
+[14-Jun-2019 20:48:02 America/Sao_Paulo] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/imagens/SANDRA_MARIA_FERNANDES_DA_SILVA.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 104
+[14-Jun-2019 20:48:02 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpo8KM4p' to 'https://tc2maranguape.com.br/sistema/imagens/SANDRA_MARIA_FERNANDES_DA_SILVA.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 104
+[06-Jul-2019 09:40:12 America/Sao_Paulo] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/documentos/Cartão_Convite_ADTCII.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[06-Jul-2019 09:40:12 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMAPxAg' to 'https://tc2maranguape.com.br/sistema/documentos/Cartão_Convite_ADTCII.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[13-Jul-2019 23:50:23 America/Sao_Paulo] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/documentos/Modelo_Carne_Missoes.docx): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[13-Jul-2019 23:50:23 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXlTe4A' to 'https://tc2maranguape.com.br/sistema/documentos/Modelo_Carne_Missoes.docx' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[13-Jul-2019 23:51:15 America/Sao_Paulo] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/documentos/CorpoCarneMissoes.docx): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[13-Jul-2019 23:51:15 America/Sao_Paulo] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7caTHQ' to 'https://tc2maranguape.com.br/sistema/documentos/CorpoCarneMissoes.docx' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[09-Jan-2020 22:03:04 America/Fortaleza] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 48
+[09-Jan-2020 22:03:04 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpS9qOdO' to '/home2/tcmarang/public_html/sistema/imagens/' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 48
+[09-Jan-2020 22:09:08 America/Fortaleza] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 48
+[09-Jan-2020 22:09:08 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsKlEHU' to '/home2/tcmarang/public_html/sistema/imagens/' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 48
+[09-Jan-2020 22:10:37 America/Fortaleza] PHP Warning:  move_uploaded_file(): The second argument to copy() function cannot be a directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 48
+[09-Jan-2020 22:10:37 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsv4IIZ' to '/home2/tcmarang/public_html/sistema/imagens/' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 48
+[01-Feb-2020 13:56:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected ')' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 42
+[01-Feb-2020 20:07:22 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:62
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 62
+[01-Feb-2020 20:08:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:62
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 62
+[01-Feb-2020 20:09:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:62
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 62
+[01-Feb-2020 20:17:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:62
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 62
+[01-Feb-2020 20:19:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:62
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 62
+[01-Feb-2020 21:49:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 141
+[01-Feb-2020 21:51:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 141
+[01-Feb-2020 21:51:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 141
+[01-Feb-2020 21:53:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 141
+[01-Feb-2020 21:53:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 141
+[01-Feb-2020 21:53:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php:141
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 141
+[02-Feb-2020 21:47:36 America/Fortaleza] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/documentos/ASSEMBLÉIA DE DEUS TC II Ofício_colegio.docx): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[02-Feb-2020 21:47:36 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjWfqsl' to 'https://tc2maranguape.com.br/sistema/documentos/ASSEMBLÉIA DE DEUS TC II Ofício_colegio.docx' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[02-Feb-2020 21:49:09 America/Fortaleza] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/documentos/ASSEMBLÉIA DE DEUS TC II Ofício_colegio.docx): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[02-Feb-2020 21:49:09 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnRqG3Y' to 'https://tc2maranguape.com.br/sistema/documentos/ASSEMBLÉIA DE DEUS TC II Ofício_colegio.docx' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[02-Feb-2020 22:11:31 America/Fortaleza] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/documentos/Oficio_ADTCII.docx): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[02-Feb-2020 22:11:31 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprm9yYd' to 'https://tc2maranguape.com.br/sistema/documentos/Oficio_ADTCII.docx' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[14-Feb-2020 20:03:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[14-Feb-2020 20:04:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[14-Feb-2020 20:05:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[14-Feb-2020 20:05:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[14-Feb-2020 20:12:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[14-Feb-2020 20:13:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on boolean in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[06-Mar-2020 20:12:09 America/Fortaleza] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/documentos/Certificado_apresentacao.jpg): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[06-Mar-2020 20:12:09 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpAcHSTj' to 'https://tc2maranguape.com.br/sistema/documentos/Certificado_apresentacao.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[24-Mar-2021 19:37:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:62
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 62
+[24-Mar-2021 19:38:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:62
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 62
+[24-Mar-2021 19:38:22 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:62
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 62
+[24-Mar-2021 19:38:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:62
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 62
+[30-Jul-2021 20:30:19 America/Fortaleza] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/documentos/FICHA DE INSCRIÇÃO ADTC2..docx.pdf): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:30:19 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpabsPuX' to 'https://tc2maranguape.com.br/sistema/documentos/FICHA DE INSCRIÇÃO ADTC2..docx.pdf' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:32:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/excluir_documento.php:39
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/excluir_documento.php on line 39
+[30-Jul-2021 20:33:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/excluir_documento.php:39
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/excluir_documento.php on line 39
+[30-Jul-2021 20:34:06 America/Fortaleza] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/documentos/FICHA DE INSCRIÇÃO ADTC2.pdf): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:34:06 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpq5xeqB' to 'https://tc2maranguape.com.br/sistema/documentos/FICHA DE INSCRIÇÃO ADTC2.pdf' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:34:08 America/Fortaleza] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/documentos/FICHA DE INSCRIÇÃO ADTC2..docx (2).pdf): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:34:08 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpgO1dU4' to 'https://tc2maranguape.com.br/sistema/documentos/FICHA DE INSCRIÇÃO ADTC2..docx (2).pdf' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:39:57 America/Fortaleza] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/documentosNOVA FICHA DE INSCRIÇÃO ADTC2..pdf): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:39:57 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpiCDT8A' to 'https://tc2maranguape.com.br/sistema/documentosNOVA FICHA DE INSCRIÇÃO ADTC2..pdf' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:46:58 America/Fortaleza] PHP Warning:  move_uploaded_file(https://tc2maranguape.com.br/sistema/documentosNOVA FICHA DE INSCRIÇÃO ADTC2..pdf): failed to open stream: HTTP wrapper does not support writeable connections in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:46:58 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXInx3B' to 'https://tc2maranguape.com.br/sistema/documentosNOVA FICHA DE INSCRIÇÃO ADTC2..pdf' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:49:00 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/documentosNOVA FICHA DE INSCRIÇÃO ADTC2..pdf): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:49:00 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpqpRtRa' to '../sistema/documentosNOVA FICHA DE INSCRIÇÃO ADTC2..pdf' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:53:25 America/Fortaleza] PHP Warning:  move_uploaded_file(../home2/tcmarang/public_html/sistema/documentosNOVA FICHA DE INSCRIÇÃO ADTC2..pdf): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[30-Jul-2021 20:53:25 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcoAxvj' to '../home2/tcmarang/public_html/sistema/documentosNOVA FICHA DE INSCRIÇÃO ADTC2..pdf' in /home2/tcmarang/public_html/sistema/procedimentos/cadastro_doc.php on line 91
+[19-Sep-2021 10:53:40 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/IMG-20210919-WA0008.jpg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[19-Sep-2021 10:53:40 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpLLxYRr' to '../sistema/imagens/IMG-20210919-WA0008.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[19-Sep-2021 10:56:02 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/IMG-20210919-WA0008.jpg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[19-Sep-2021 10:56:02 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEHVeWX' to '../sistema/imagens/IMG-20210919-WA0008.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[19-Sep-2021 11:59:37 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/IMG-20210919-WA0008.jpg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[19-Sep-2021 11:59:37 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php18bV2U' to '../sistema/imagens/IMG-20210919-WA0008.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[19-Sep-2021 21:05:21 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/IMG-20210919-WA0018.jpg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[19-Sep-2021 21:05:21 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php7oIZlD' to '../sistema/imagens/IMG-20210919-WA0018.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[08-Oct-2021 20:04:30 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/IMG-20210910-WA0083.jpg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[08-Oct-2021 20:04:30 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkGfCEX' to '../sistema/imagens/IMG-20210910-WA0083.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[08-Oct-2021 20:07:59 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/IMG-20210910-WA0083.jpg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[08-Oct-2021 20:07:59 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBXPQAS' to '../sistema/imagens/IMG-20210910-WA0083.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[08-Oct-2021 20:09:06 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/IMG-20210910-WA0084.jpg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[08-Oct-2021 20:09:06 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHp97ow' to '../sistema/imagens/IMG-20210910-WA0084.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[08-Oct-2021 20:11:16 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/Screenshot_20211008-200935.png): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[08-Oct-2021 20:11:16 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php5NYyYM' to '../sistema/imagens/Screenshot_20211008-200935.png' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[08-Oct-2021 20:16:17 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/IMG-20210910-WA0086.jpg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[08-Oct-2021 20:16:17 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpj4B9Tl' to '../sistema/imagens/IMG-20210910-WA0086.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[16-Oct-2021 08:11:06 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/IMG-20211016-WA0002.jpg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[16-Oct-2021 08:11:06 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnhxpbB' to '../sistema/imagens/IMG-20211016-WA0002.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[16-Oct-2021 08:12:19 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/IMG-20210928-WA0114.jpg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[16-Oct-2021 08:12:19 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpa3DugY' to '../sistema/imagens/IMG-20210928-WA0114.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[16-Oct-2021 08:12:58 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/IMG-20211016-WA0002.jpg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[16-Oct-2021 08:12:58 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpF7dAmB' to '../sistema/imagens/IMG-20211016-WA0002.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[16-Oct-2021 09:04:50 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/IMG-20211016-WA0003.jpg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[16-Oct-2021 09:04:50 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKcm0Pa' to '../sistema/imagens/IMG-20211016-WA0003.jpg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[17-Oct-2021 19:05:25 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/2-removebg-preview.png): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[17-Oct-2021 19:05:25 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpf0jAfo' to '../sistema/imagens/2-removebg-preview.png' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[17-Oct-2021 19:09:09 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/2.jpeg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[17-Oct-2021 19:09:09 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDMsoQo' to '../sistema/imagens/2.jpeg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[17-Oct-2021 19:10:23 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/2.jpeg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[17-Oct-2021 19:10:23 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php4gVX1N' to '../sistema/imagens/2.jpeg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[17-Oct-2021 19:14:02 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/1.jpeg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[17-Oct-2021 19:14:02 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9p8orL' to '../sistema/imagens/1.jpeg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[17-Oct-2021 19:15:07 America/Fortaleza] PHP Warning:  move_uploaded_file(../sistema/imagens/3.jpeg): failed to open stream: No such file or directory in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[17-Oct-2021 19:15:07 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpNwR0aA' to '../sistema/imagens/3.jpeg' in /home2/tcmarang/public_html/sistema/procedimentos/alterar_foto.php on line 87
+[18-Oct-2021 08:43:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:62
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 62
+[18-Oct-2021 08:45:14 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:62
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 62
+[01-Mar-2022 10:07:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63
+[01-Mar-2022 10:07:47 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63
+[11-Mar-2022 20:51:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63
+[11-Mar-2022 20:52:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63
+[11-Mar-2022 20:53:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63
+[21-Mar-2022 14:26:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63
+[21-Mar-2022 14:27:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63
+[21-Mar-2022 14:29:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63
+[23-Apr-2022 14:57:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[28-Apr-2022 22:09:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[29-Apr-2022 07:55:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[29-Apr-2022 15:37:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63
+[29-Apr-2022 15:37:44 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63
+[29-May-2022 20:53:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[29-May-2022 21:10:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[31-May-2022 21:51:24 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[31-May-2022 21:54:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[31-May-2022 22:12:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[31-May-2022 22:13:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[02-Jun-2022 18:19:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[02-Jun-2022 18:28:08 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[02-Jun-2022 20:20:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[02-Jun-2022 22:04:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/cadastrar_filiado.php on line 154
+[15-Jun-2022 10:58:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63
+[15-Jun-2022 11:38:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63
+[15-Jun-2022 11:39:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on bool in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php:63
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/procedimentos/alterar_filiado.php on line 63

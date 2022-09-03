@@ -1,0 +1,31 @@
+#coluna1
+{
+  width:0px;
+  height:100px;
+  margin-top:10px;
+  margin-left:0px;
+  background-color:#ccc;
+     
+}
+#img_dizimo
+{
+  width:170px;
+  height:78px;
+  margin-top:10px;
+  margin-left:-5px;
+  background-color:#ccc;
+  float:left; 
+}
+#teste{
+  width:0px;
+  height:0px;
+  margin-top:0px;
+  margin-left:0px;  
+}
+#teste
+{
+   width:0px;
+  height:0px;
+  margin-top:0px;
+  margin-left:0px;  
+}

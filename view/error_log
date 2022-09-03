@@ -1,0 +1,15 @@
+[30-Mar-2022 10:07:20 America/Fortaleza] PHP Warning:  openssl_decrypt() expects at least 3 parameters, 1 given in /home2/tcmarang/public_html/sistema/view/tela_cad_usuario.php on line 68
+[30-Mar-2022 10:07:20 America/Fortaleza] PHP Warning:  openssl_decrypt() expects at least 3 parameters, 1 given in /home2/tcmarang/public_html/sistema/view/tela_cad_usuario.php on line 68
+[30-Mar-2022 10:07:20 America/Fortaleza] PHP Warning:  openssl_decrypt() expects at least 3 parameters, 1 given in /home2/tcmarang/public_html/sistema/view/tela_cad_usuario.php on line 68
+[30-Mar-2022 10:26:04 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_decrypt() in /home2/tcmarang/public_html/sistema/view/tela_cad_usuario.php:68
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/view/tela_cad_usuario.php on line 68
+[30-Mar-2022 10:26:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_decrypt() in /home2/tcmarang/public_html/sistema/view/tela_cad_usuario.php:68
+Stack trace:
+#0 {main}
+  thrown in /home2/tcmarang/public_html/sistema/view/tela_cad_usuario.php on line 68
+[20-May-2022 19:37:08 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'de' (T_STRING) in /home2/tcmarang/public_html/sistema/view/dados_da_carta.php on line 89
+[20-May-2022 19:37:10 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'de' (T_STRING) in /home2/tcmarang/public_html/sistema/view/dados_da_carta.php on line 89
+[20-May-2022 19:37:35 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'de' (T_STRING) in /home2/tcmarang/public_html/sistema/view/dados_da_carta.php on line 89
+[20-May-2022 19:38:09 America/Fortaleza] PHP Parse error:  syntax error, unexpected 'de' (T_STRING) in /home2/tcmarang/public_html/sistema/view/dados_da_carta.php on line 89
