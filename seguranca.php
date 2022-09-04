@@ -7,12 +7,11 @@ session_start();
 if (isset($_POST['nome']) && empty($_POST['nome']) == false) {
 
      $nome = addslashes($_POST['nome']);
-
-     $senha = md5(addslashes($_POST['senha']));
-
+     $senha=addslashes($_POST['senha']);
+     
 }    
-      $sql = $pdo->query("SELECT * FROM usuarios WHERE nome='$nome' AND senha='$senha'");
-
+      $sql = $pdo->query("SELECT * FROM usuarios WHERE nome='$nome' AND senha='$senha' AND nivel='admin");
+      echo $senha;
 if($sql->rowCount() > 0) {
 
      foreach($sql->fetchAll() as $linhas){    
@@ -24,7 +23,7 @@ if($sql->rowCount() > 0) {
           $_SESSION['senha']  = $linhas['senha'];
           $_SESSION['nivel']  = $linhas['nivel'];
 
-
+          echo $_SESSION['nivel'] ;
           if ($_SESSION['nivel'] === "admin") {
                header('Location:index.php');
           }else{
@@ -47,4 +46,4 @@ if($sql->rowCount() > 0) {
 
 
 
-?>   
+?>	
