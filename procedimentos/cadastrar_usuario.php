@@ -18,7 +18,7 @@ require'../db/config.php';
 if (isset($_POST['nome']) && empty($_POST['nome']) == false) {
 $dados=array(
 addslashes($_POST["nome"]),
-MD5(addslashes($_POST["senha"])),
+base64_encode(addslashes($_POST["senha"])),
 addslashes($_POST["nivel"])
 );
 

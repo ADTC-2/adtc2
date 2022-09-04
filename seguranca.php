@@ -6,16 +6,16 @@ session_start();
 
 if (isset($_POST['nome']) && empty($_POST['nome']) == false) {
 
-	$nome = addslashes($_POST['nome']);
-	$senha = md5(addslashes($_POST['senha']));
-    $nivel = addslashes($_POST['nivel']);
-} 	
- 	 $sql = $pdo->query("SELECT * FROM usuarios WHERE nome='$nome' AND senha='$senha');
-
+     $nome = addslashes($_POST['nome']);
+     $senha=addslashes($_POST['senha']);
+     
+}    
+      $sql = $pdo->query("SELECT * FROM usuarios WHERE nome='$nome' AND senha='$senha' AND nivel='admin");
+      echo $senha;
 if($sql->rowCount() > 0) {
 
      foreach($sql->fetchAll() as $linhas){    
- 	 
+      
           
           session_regenerate_id();
 
@@ -23,13 +23,11 @@ if($sql->rowCount() > 0) {
           $_SESSION['senha']  = $linhas['senha'];
           $_SESSION['nivel']  = $linhas['nivel'];
 
-
+          echo $_SESSION['nivel'] ;
           if ($_SESSION['nivel'] === "admin") {
                header('Location:index.php');
-          }else if ($_SESSION['nivel'] === "apoio"){
-               header('Location:index_secretario.php');  
           }else{
-               header('Location:index_tesoureiro.php');  
+               header('Location:login_erro.php');  
           }
 
    
@@ -48,4 +46,4 @@ if($sql->rowCount() > 0) {
 
 
 
-?>		
+?>	
