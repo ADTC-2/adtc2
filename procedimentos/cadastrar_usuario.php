@@ -19,14 +19,15 @@ if (isset($_POST['nome']) && empty($_POST['nome']) == false) {
 $dados=array(
 addslashes($_POST["nome"]),
 MD5(addslashes($_POST["senha"])),
-addslashes($_POST["nivel"])
+addslashes($_POST["nivel"]),
+addslashes($_POST["digitado"])
 );
 
 }
 
 $data		= date('Y-m-d');
 
-$sql = "INSERT INTO usuarios (nome,senha,nivel,dataCaptura) VALUES('$dados[0]','$dados[1]','$dados[2]','$data')";
+$sql = "INSERT INTO usuarios (nome,senha,nivel,digitado,dataCaptura) VALUES('$dados[0]','$dados[1]','$dados[2]','$dados[3]','$data')";
 $sql = $pdo->query($sql);
 
 ?>

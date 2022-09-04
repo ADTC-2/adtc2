@@ -18,7 +18,7 @@
 
 	<div class="form-row">
 			<div class="form-group col-md-6">			     
-			      <input type="text" class="form-control" id="nome_user" placeholder="Nome da congregacao" name="nome">
+			      <input type="text" class="form-control" id="nome_user" placeholder="Nome de usuário" name="nome">
 			</div>
 		    <div class="form-group col-md-6">      
 			  
@@ -36,6 +36,9 @@
 		    <div class="form-group col-md-6">		       	      
                 <input type="password" class="form-control" id="senha"placeholder="Senha"name="senha">
 		    </div>
+        <div class="form-group col-md-6">                 
+                <input type="text" class="form-control" id="senha"placeholder="Corfirme Senha"name="digitado">
+        </div>
 		    
     </div>
 		  
@@ -51,24 +54,25 @@
       <th>Nome</th>
       <th>Nivel</th>           
       <th>Senha</th>
+      <th>Senha Atual</th>
       <th>Ação</th>
     </tr>
   </thead>
   <?php 
   
   if($sql->rowCount() > 0) {
-      foreach($sql->fetchAll() as $linhas){   
+      foreach($sql->fetchAll() as $linhas){        
   ?>
   <tbody>
-    <tr>
-      
+    <tr>     
       <td><?php echo $linhas['id'];?></td>
       <td><?php echo $linhas['nome'];?></td>
       <td><?php echo $linhas['nivel'];?></td>
-      <td><?php 
-      echo 
-      $linhas['senha'];
-      ?></td>            
+      <td>
+            <?php echo $linhas['senha'];
+             ?>       
+      </td> 
+      <td><?php echo $linhas['digitado'];?></td>        
       <td><?php echo $linhas['dataCaptura'];?></td>
       <td><a href="../procedimentos/excluir_usuario.php?&id=<?php echo $linhas['id'];?>"><img class="card-img-top" src="../imagens/diversas_imagens/excluir.png"
        width="20" height="20" style="margin-right:-125px;"></a></td>
