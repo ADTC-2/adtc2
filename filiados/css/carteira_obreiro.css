@@ -1,0 +1,207 @@
+/* Ajustes de layout e estilo para a carteira do obreiro */
+
+/* Imagem de fundo */
+#img_fundo {
+    width: 605px;
+    height: 515px;
+    border-radius: 0;
+    background-color: #ffffff; /* Cor de fundo */
+}
+
+/* Card frente */
+#frente_card {
+    width: 600px;
+    height: 511px;
+    margin-top: 2px;
+    margin-left: 0;
+    border: 1px solid #000000; /* Cor da borda */
+    border-radius: 14px;
+}
+
+/* Foto */
+#foto {
+    width: 204px;
+    height: 323px;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+/* Imagem da foto */
+#img_foto {
+    width: 136px;
+    height: 136px;
+    margin-top: -843px;
+    margin-left: 87px;
+    border-radius: 85px;
+    border: 7px solid #ffffff; /* Cor da borda da imagem */
+}
+
+/* Nome da carteira */
+#nome_carteira {
+    width: 284px;
+    height: 28px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff; /* Cor do texto */
+    margin-top: -284px;
+    margin-left: -192px;
+}
+
+/* Matrícula */
+#matricula {
+    width: 100px;
+    height: 26px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    color: #ffffff; /* Cor do texto */
+    margin-top: -329px;
+    margin-bottom: 0;
+    margin-left: 108px;
+}
+
+/* Função */
+#funcao {
+    width: 284px;
+    height: 28px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff; /* Cor do texto */
+    margin-top: -262px;
+    margin-left: -284px;
+}
+
+/* Congregação */
+#congregacao {
+    width: 284px;
+    height: 28px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff; /* Cor do texto */
+    margin-top: -243px;
+    margin-left: -284px;
+}
+
+/* Nome */
+#nome {
+    width: 296px;
+    height: 20px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000; /* Cor do texto */
+    margin-top: -419px;
+    margin-left: 308px;
+}
+
+/* Data de Consagração */
+#data_Consagracao {
+    width: 90px;
+    height: 17px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000; /* Cor do texto */
+    margin-top: -402px;
+    margin-left: -164px;
+}
+
+/* Documento */
+#documento {
+    width: 90px;
+    height: 17px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000; /* Cor do texto */
+    margin-top: -383px;
+    margin-left: -143px;
+}
+
+/* Data de Nascimento */
+#dataNascimento {
+    width: 90px;
+    height: 17px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000; /* Cor do texto */
+    margin-top: -365px;
+    margin-left: -48px;
+}
+
+/* Data de Batismo */
+#dataBatismo {
+    width: 90px;
+    height: 17px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000; /* Cor do texto */
+    margin-top: -347px;
+    margin-left: -110px;
+}
+
+/* Estado Civil */
+#estadoCivil {
+    width: 90px;
+    height: 17px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000; /* Cor do texto */
+    margin-top: -329px;
+    margin-left: -118px;
+}
+
+/* Mãe */
+#mae {
+    width: 290px;
+    height: 18px;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000; /* Cor do texto */
+    margin-top: -296px;
+    margin-left: -143px;
+}
+
+/* Pai */
+#pai {
+    width: 290px;
+    height: 18px;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000; /* Cor do texto */
+    margin-top: -264px;
+    margin-left: 328px;
+}
+
+/* Alinhamento do texto */
+.p {
+    text-align: center;
+}
+
+.container {
+    width: 80%; /* Ajuste conforme necessário */
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Estilos para impressão */
+@media print {
+    .container {
+        width: 100%; /* Ajuste conforme necessário */
+        margin: 0;
+        text-align: center;
+    }
+    .hide-on-print {
+        display: none;
+    }
+
+    .print-text {
+        position: absolute;
+        z-index: 1; /* Coloca o texto na frente da imagem */
+        color: #000000; /* Cor do texto para impressão */
+    }
+
+    /* Garantir que o fundo e o texto sejam visíveis na impressão */
+    body {
+        color: #000000; /* Cor do texto */
+        background-color: #ffffff; /* Cor de fundo */
+    }
+}
+

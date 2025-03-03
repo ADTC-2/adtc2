@@ -1,0 +1,133 @@
+#modelo_cart_obreiro
+{
+ width: 1109px; 
+ height:336px ;
+ margin-top: 60px;
+ margin-left: 0px;
+}
+
+#foto_carteira_obreiro
+{
+ width: 120px; 
+ height:140px ;
+ margin-top:-197px;
+ margin-left: 420px;
+}
+#matricula_carteira
+{
+ width: 200px; 
+ height:0px ;
+ margin-top: -131px;
+ margin-left: 69px;
+ font-size: 12px;
+}
+#nome_carteira
+{
+ width: 500px; 
+ height:0px ;
+ margin-top: 17px;
+ margin-left: 69px;
+ font-size: 12px;
+}
+#funcao_carteira
+{
+ width: 400px; 
+ height:0px ;
+ margin-top: 0px;
+ margin-left: 69px;
+ font-size: 12px;
+}
+#congregacao_carteira
+{
+ width: 600px; 
+ height:0px ;
+ margin-top: 0px;
+ margin-left: 69px;
+ font-size: 12px;
+}
+
+#documento_verso_carteira
+{
+  width: 600px; 
+ height:0px ;
+ margin-top: -266px;
+ margin-left: 599px;
+ font-size: 12px;
+}
+
+#dt_nasc_verso_carteira
+{
+  width: 600px; 
+ height:0px ;
+ margin-top: 0px;
+ margin-left: 599px;
+ font-size: 12px;
+}
+#dt_batismo_verso_carteira
+{
+  width: 600px; 
+ height:0px ;
+ margin-top: 0px;
+ margin-left: 599px;
+ font-size: 12px;
+}
+
+#estadoCivil_verso_carteira
+{
+  width: 600px; 
+ height:0px ;
+ margin-top: 0px;
+ margin-left: 599px;
+ font-size: 12px;
+}
+
+#mae_verso_carteira
+{
+  width:600px; 
+ height:0px ;
+ margin-top: 0px;
+ margin-left: 599px;
+ font-size: 12px;
+
+}
+
+#mae_verso_carteira
+{
+  width: 600px; 
+ height:0px ;
+ margin-top: 0px;
+ margin-left: 599px;
+ font-size: 12px;
+}
+
+#central_verso_carteira
+{
+  width: 472px; 
+ height:200px ;
+ margin-top: 36px;
+ margin-left: 597px;
+ font-size: 12px;
+}
+
+#ass_responsavel_verso_carteira
+{
+  width: 250px; 
+ height:30px ;
+ margin-top: -184px;
+ margin-left: 684px;}
+
+#linha_verso_carteira
+{
+  width: 400px; 
+ height:0px ;
+ margin-top: -107px;
+ margin-left: 674px;}
+
+#nome_verso_responsavel
+{
+  width: 600px; 
+ height:0px ;
+ margin-top: 0px;
+ margin-left: 725px;
+ font-size: 12px;
+}

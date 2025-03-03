@@ -1,0 +1,119 @@
+.conteiner {
+   margin-top: 50px;
+   margin-left: 20px;
+   width: 2480px;
+   /* Corrigido: adicione 'px' ao valor da largura */
+   height: 1400px;
+   border: 1px solid #04195c;
+}
+
+.texto1 {
+   width: 900px;
+   height: 125px;
+   margin: 25px 30px 30px 50px;
+   margin-top: -132px;
+}
+
+.texto2 {
+   width: 900px;
+   height: 125px;
+   margin: 0px 30px 30px 50px;
+}
+
+.texto3 {
+   width: 900px;
+   height: 125px;
+   margin: 425px 30px 30px 50px;
+}
+
+.texto4 {
+   width: 900px;
+   height: 460px;
+   margin-top: 80px;
+   margin-left: 0px;
+}
+
+.texto4 p {
+    /* Margem de 2 centímetros no topo do parágrafo */
+   margin-bottom: -10px;
+   /* Margem de 2 centímetros na parte inferior do parágrafo */
+}
+
+#checkIn {
+   width: 980px;
+   height: 730px;
+   margin: -65px 0px 0px -30px;
+}
+
+#checkIn1 {
+   width: 380px;
+   height: 140px;
+   margin: 13px 0px 0px 0px;
+}
+
+#declaracao {
+   text-align: justify;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+   font-size: 13px;
+   padding: 10px 10px 10px 10px;
+   text-indent: 20px;
+}
+
+/* Ajustes nas margens dos elementos */
+#solicitante,
+#tipo_evento,
+#dt_evento,
+#horario,
+#telefone,
+#status,
+#agendadoEm {
+   text-align: justify;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+   font-size: 16px;
+   padding: 10px 10px 10px 10px;
+   text-indent: 20px;
+   margin-top: -3px;
+   margin-left: 0px;
+}
+
+.texto5 {
+   width: 500px;
+   height: auto;
+   /* Alterado: altura definida automaticamente */
+   margin-left: 131px;
+   margin-top: -67px;
+}
+
+.texto6 {
+   width: 500px;
+   height: auto;
+   /* Alterado: altura definida automaticamente */
+   margin-left: 683px;
+   margin-top: -64px;
+   /* Adicione margem direita para espaçamento entre os elementos */
+}
+
+#pastor {
+   width: 220px;
+   height: auto;
+   /* Alterado: altura definida automaticamente */
+   margin-left: 25px;
+   margin-top: -22px;
+}
+
+#sec {
+   width: 200px;
+   height: auto;
+   /* Alterado: altura definida automaticamente */
+   margin-left: 54px;
+   margin-top: -21px;
+}
+
+#img_ass {
+   width: 300px;
+   height: 30px;
+   margin-top: -6px;
+   margin-left: -32px;
+}

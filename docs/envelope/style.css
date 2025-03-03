@@ -1,0 +1,44 @@
+#logo
+{
+  margin-top: 10px;
+  margin-left: 147px;
+  width: 400px;
+  height: 80px;
+
+}
+
+#logtabela
+{ 
+  margin-top: 18px;
+  margin-left: 10px;
+  width: 500px;
+  height: 790px;
+   
+}
+#nome
+{
+  margin-top: 340px;
+  margin-left: 44px;
+  position:absolute;
+  color: #fdfafa;
+   font-size: 25px;
+   color: red; text-shadow: black 0.1em 0.1em 0.2em
+
+}
+#congregacao
+{
+  margin-top: 392px;
+  margin-left: 71px;  
+  position:absolute;
+  color: #fff;
+  font-size: 25px;
+  color: red; text-shadow: black 0.1em 0.1em 0.2em
+
+
+}
+#imagem
+{
+  width: 150px;
+  height: 120px;
+
+}

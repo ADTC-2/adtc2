@@ -1,0 +1,40 @@
+@page {
+    size: A4;
+    margin: 15mm; /* Margens reduzidas para maximizar o uso do espaço */
+}
+body {
+    font-family: Arial, sans-serif;
+    font-size: 10pt; /* Fonte menor para caber mais conteúdo */
+    line-height: 1.2; /* Menor espaçamento entre linhas */
+}
+.container {
+    max-width: 100%;
+}
+#assinaturas{
+    margin-top: 230px;
+}
+.card {
+    padding: 10px; /* Padding reduzido */
+    height: 1100px;  
+    border-radius: 5px;
+    box-shadow: none; /* Removido box-shadow para economizar espaço */
+}
+.signature-line {
+    border-top: 1px dotted #000;
+    margin: 0 auto;
+    width: 50%; /* Ajustado para 50% para economizar espaço */
+    height: 10px; /* Altura reduzida */
+    text-align: center;
+}
+.signature-label {
+    text-align: center;
+    margin-top: 5px; /* Menor margem superior */
+}
+.text-center {
+    text-align: center;
+}
+@media print {
+    .no-print {
+        display: none;
+    }
+}

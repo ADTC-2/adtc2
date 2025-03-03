@@ -1,0 +1,152 @@
+@page {
+    size: A4;
+    margin: 20mm; /* Margem padrão formal */
+}
+
+body {
+    font-family: 'Times New Roman', serif; /* Fonte mais formal */
+    font-size: 10.5pt; /* Fonte ajustada para evitar quebra de página */
+    line-height: 1.3; /* Espaçamento mais compacto */
+    margin: 0; /* Remove margens padrões do body */
+    height: 100%; /* Garante que o body ocupe toda a altura da página */
+}
+
+.container {
+    max-width: 100%;
+    padding: 0; /* Remove padding padrão */
+    margin: 0; /* Remove margem padrão */
+    height: 100%; /* Garante que o container ocupe toda a altura disponível */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza horizontalmente */
+    justify-content: center; /* Centraliza verticalmente, se necessário */
+}
+
+.header {
+    text-align: center; /* Centraliza o conteúdo horizontalmente */
+    margin-bottom: 10px; /* Espaçamento ajustado */
+}
+
+#logo {
+    width: 120px; /* Tamanho do logo */
+    height: auto;
+    display: block; /* Garante que o logo seja tratado como bloco */
+    margin: 10px auto 0; /* Margem superior e inferior ajustada e centralização horizontal */
+}
+
+.card {
+    background-color: rgba(244, 244, 249, 0.76); /* Leve camada branca translúcida para garantir legibilidade */
+    background-image: url('../images/fundo\ 5.jpg'); /* Caminho da imagem */
+    background-size: cover; /* Garante que a imagem cubra todo o card */
+    background-repeat: no-repeat; /* Evita repetição da imagem */
+    background-position: center center; /* Centraliza a imagem no card */
+    background-blend-mode: lighten; /* Torna a imagem mais clara, como uma marca d'água */
+    padding: 20px;
+    border: 5px solid;
+    border-image: linear-gradient(to right, #4A90E2, #50E3C2) 1; 
+    border-radius: 2.5mm;    
+    box-shadow: none;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 200mm;
+    height: 283mm;
+    box-sizing: border-box;
+    position: relative;
+}
+
+
+h4 {
+    font-weight: bold;
+    margin-bottom: 5px; /* Espaçamento reduzido */
+    text-transform: uppercase;
+    font-size: 11pt; /* Fonte ligeiramente menor */
+}
+
+p {
+    margin: 0 0 6px; /* Espaçamento entre parágrafos ajustado */
+    font-size: 10.5pt; /* Fonte ligeiramente menor para evitar quebra */
+}
+
+.texto {
+    margin-top: 10px;
+    font-style: italic;
+    text-align: justify;
+    font-size: 11pt;
+}
+
+.signature-line {
+    border-top: 1px dotted black; /* Linha pontilhada */
+    margin-top: 10px; /* Espaçamento ajustado */
+    width: 70%; /* Largura ajustada para caber melhor */
+    margin-left: auto;
+    margin-right: auto; /* Centraliza a linha de assinatura */
+}
+
+.signature-label {
+    text-align: center;
+    margin-top: 3px; /* Redução de margem superior */
+    font-weight: bold;
+    font-size: 10pt; /* Fonte ligeiramente menor */
+}
+
+.text-center {
+    text-align: center;
+}
+
+#assinaturas {
+    text-align: center; /* Centraliza o conteúdo */
+    margin-bottom: 30mm; /* Espaço inferior para o rodapé */
+    padding: 0 10px 10px 10px;
+}
+
+.row {
+    display: flex;
+    justify-content: center; /* Centraliza o conteúdo das linhas */
+    margin-bottom: 10px; /* Ajuste de espaçamento para evitar quebra */
+}
+
+.col-6 {
+    flex: 0 0 50%; /* Ajusta o tamanho das colunas */
+    max-width: 50%; /* Limita a largura máxima */
+}
+
+footer.endereco {
+    position: absolute;    
+    left: 50%;
+    margin-top: 908px;
+    transform: translateX(-50%); /* Centraliza horizontalmente */
+    width: calc(100% - 10mm); /* Largura ajustada para margens */
+    text-align: center; /* Centraliza o texto */
+    font-size: 8pt; /* Ajuste no tamanho da fonte */
+    color: rgb(64, 60, 7);
+}
+
+footer.endereco p {
+    margin: 1px 0; /* Margem reduzida entre os parágrafos */
+    line-height: 1.0; /* Espaçamento entre linhas ajustado para clareza */
+}
+
+@media print {
+    .no-print {
+        display: none;
+    }
+
+        .card {
+        background-color: rgba(255, 255, 255, 0.9); /* Leve camada branca translúcida para garantir legibilidade */
+        background-image: url('../images/fundo\ 5.jpg'); /* Certifique-se de que o caminho esteja correto */
+        background-size: cover; /* Garante que a imagem cubra todo o card */
+        background-repeat: no-repeat; /* Evita repetição da imagem */
+        background-position: center center; /* Centraliza a imagem no card */
+        background-blend-mode: lighten; /* Torna a imagem mais clara, como uma marca d'água */
+        -webkit-print-color-adjust: exact; /* Garante que as cores de fundo sejam impressas no Chrome */
+        print-color-adjust: exact; /* Garante que as cores de fundo sejam impressas em outros navegadores */
+    }
+}
+
+
+
+
+
+
+

@@ -1,0 +1,267 @@
+[07-Sep-2024 19:22:38 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php on line 15
+[07-Sep-2024 19:22:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php on line 15
+[07-Sep-2024 19:27:17 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php on line 18
+[07-Sep-2024 19:27:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php on line 18
+[07-Sep-2024 19:33:26 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'adtc2m99_adtc2.casamentos' doesn't exist in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php:31
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php(31): PDO->query('SELECT id, nome...')
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php on line 31
+[07-Sep-2024 19:35:26 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'adtc2m99_adtc2.casamentos' doesn't exist in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php:31
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php(31): PDO->query('SELECT id, nome...')
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php on line 31
+[07-Sep-2024 19:40:45 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'adtc2m99_adtc2.casamentos' doesn't exist in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php:31
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php(31): PDO->query('SELECT id, nome...')
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/buscar_registro.php on line 31
+[09-Sep-2024 07:24:53 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 29
+[09-Sep-2024 07:24:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 29
+[09-Sep-2024 07:25:01 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 29
+[09-Sep-2024 07:25:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 29
+[09-Sep-2024 07:27:45 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 29
+[09-Sep-2024 07:27:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 29
+[09-Sep-2024 07:28:57 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 29
+[09-Sep-2024 07:28:57 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 29
+[09-Sep-2024 07:29:06 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 29
+[09-Sep-2024 07:29:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php:29
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 29
+[09-Sep-2024 07:35:13 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 45
+[09-Sep-2024 07:35:13 America/Fortaleza] PHP Warning:  Undefined array key "mae_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 51
+[09-Sep-2024 07:35:13 America/Fortaleza] PHP Warning:  Undefined array key "pai_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 52
+[09-Sep-2024 07:35:13 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 53
+[09-Sep-2024 07:36:33 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 45
+[09-Sep-2024 07:36:33 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 53
+[09-Sep-2024 07:59:00 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 07:59:00 America/Fortaleza] PHP Warning:  Undefined variable $estado_civil_pais_noiva in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 07:59:00 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 07:59:00 America/Fortaleza] PHP Warning:  Undefined variable $estado_civil_pais_noivo in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 07:59:00 America/Fortaleza] PHP Warning:  Undefined variable $estado_civil_pais_noiva in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 87
+[09-Sep-2024 07:59:00 America/Fortaleza] PHP Warning:  Undefined variable $estado_civil_pais_noivo in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 95
+[09-Sep-2024 08:00:23 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:00:23 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:00:26 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:00:26 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:00:49 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:00:49 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:01:14 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:01:14 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:01:14 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:01:14 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:01:14 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:01:14 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:01:15 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:01:15 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:01:15 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:01:15 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:01:15 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:01:15 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:01:15 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:01:15 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:01:15 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:01:15 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:01:16 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:01:16 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:01:16 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 46
+[09-Sep-2024 08:01:16 America/Fortaleza] PHP Warning:  Undefined array key "$estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 55
+[09-Sep-2024 08:04:40 America/Fortaleza] PHP Warning:  Undefined array key "mae_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 53
+[09-Sep-2024 08:04:40 America/Fortaleza] PHP Warning:  Undefined array key "pai_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 54
+[09-Sep-2024 08:20:01 America/Fortaleza] PHP Warning:  Undefined array key "mae_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 53
+[09-Sep-2024 08:20:01 America/Fortaleza] PHP Warning:  Undefined array key "pai_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 54
+[09-Sep-2024 08:20:22 America/Fortaleza] PHP Warning:  Undefined array key "mae_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 53
+[09-Sep-2024 08:20:22 America/Fortaleza] PHP Warning:  Undefined array key "pai_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 54
+[09-Sep-2024 08:20:24 America/Fortaleza] PHP Warning:  Undefined array key "mae_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 53
+[09-Sep-2024 08:20:24 America/Fortaleza] PHP Warning:  Undefined array key "pai_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 54
+[09-Sep-2024 08:21:26 America/Fortaleza] PHP Warning:  Undefined array key "mae_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 53
+[09-Sep-2024 08:21:26 America/Fortaleza] PHP Warning:  Undefined array key "pai_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 54
+[09-Sep-2024 08:21:26 America/Fortaleza] PHP Warning:  Undefined array key "mae_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 53
+[09-Sep-2024 08:21:26 America/Fortaleza] PHP Warning:  Undefined array key "pai_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 54
+[09-Sep-2024 08:21:26 America/Fortaleza] PHP Warning:  Undefined array key "mae_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 53
+[09-Sep-2024 08:21:26 America/Fortaleza] PHP Warning:  Undefined array key "pai_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 54
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $id in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 18
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $data_criacao_formatada in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 19
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $nome_noiva in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 22
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $cpf_noiva in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 23
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $data_nascimento_noiva_formatada in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 24
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $cidade_nascimento_noiva in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 25
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $uf_noiva in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 25
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $mae_de_noiva in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 26
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $pai_de_noiva in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 26
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $estado_civil_pais_noiva in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 27
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $nome_noivo in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 30
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $cpf_noivo in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 31
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $data_nascimento_noivo_formatada in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 32
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $cidade_nascimento_noivo in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 33
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $uf_noivo in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 33
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $maenoivo in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 34
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $painoivo in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 34
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $estado_civil_pais_noivo in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 35
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $local_celebracao in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $data_celebracao_formatada in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 39
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $uf_celebracao in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 39
+[09-Sep-2024 08:37:58 America/Fortaleza] PHP Warning:  Undefined variable $ministro in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 40
+[09-Sep-2024 13:58:15 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 32
+[09-Sep-2024 13:58:15 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 32
+[09-Sep-2024 13:58:16 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 32
+[09-Sep-2024 13:58:16 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 32
+[09-Sep-2024 14:00:36 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 32
+[09-Sep-2024 14:00:36 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 32
+[09-Sep-2024 14:00:37 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 32
+[09-Sep-2024 14:00:37 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 32
+[09-Sep-2024 14:02:36 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 29
+[09-Sep-2024 14:02:36 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 29
+[09-Sep-2024 14:02:37 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 29
+[09-Sep-2024 14:02:37 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 29
+[09-Sep-2024 14:06:29 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 29
+[09-Sep-2024 14:06:29 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 29
+[09-Sep-2024 14:07:05 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:07:05 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:07:05 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:07:05 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:07:51 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:07:51 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:07:51 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:07:51 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:08:44 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:08:44 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:08:44 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:08:44 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:09:22 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:09:22 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:09:22 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:09:22 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:19:58 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:19:58 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:20:16 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:20:16 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:20:21 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:20:21 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:20:21 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:20:21 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:11 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:11 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:11 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:11 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:12 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:12 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:12 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:12 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:13 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:13 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:13 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:13 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:16 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:16 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:16 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:22:16 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 27
+[09-Sep-2024 14:24:31 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 34
+[09-Sep-2024 14:24:31 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 34
+[09-Sep-2024 14:24:31 America/Fortaleza] PHP Warning:  Undefined variable $username in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 34
+[09-Sep-2024 14:24:31 America/Fortaleza] PHP Warning:  Undefined variable $password in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 34
+[09-Sep-2024 14:31:51 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 33
+[09-Sep-2024 14:31:51 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 33
+[09-Sep-2024 14:31:51 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 37
+[09-Sep-2024 14:31:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 37
+[09-Sep-2024 14:32:40 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 33
+[09-Sep-2024 14:32:40 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 33
+[09-Sep-2024 14:32:40 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 37
+[09-Sep-2024 14:32:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 37
+[09-Sep-2024 14:32:53 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 33
+[09-Sep-2024 14:32:53 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 33
+[09-Sep-2024 14:32:53 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 37
+[09-Sep-2024 14:32:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 37
+[09-Sep-2024 14:35:07 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 33
+[09-Sep-2024 14:35:07 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 33
+[09-Sep-2024 14:35:07 America/Fortaleza] PHP Warning:  Undefined variable $conn in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 37
+[09-Sep-2024 14:35:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 37
+[09-Sep-2024 14:37:56 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'adtc2m99_adtc2.registros_casamento' doesn't exist in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php:36
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 36
+[09-Sep-2024 14:38:23 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'adtc2m99_adtc2.registros_casamento' doesn't exist in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php:36
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php(36): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 36
+[09-Sep-2024 14:38:59 America/Fortaleza] PHP Warning:  Undefined array key "noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 130
+[09-Sep-2024 14:38:59 America/Fortaleza] PHP Warning:  Undefined array key "noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/form_alterar.php on line 134
+[09-Sep-2024 17:53:58 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[09-Sep-2024 17:53:58 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47
+[09-Sep-2024 17:58:13 America/Fortaleza] PHP Warning:  Undefined array key "mae_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 39
+[09-Sep-2024 17:58:13 America/Fortaleza] PHP Warning:  Undefined array key "pai_de_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 40
+[09-Sep-2024 17:58:13 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'mae_de_noivo' in 'field list' in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php:93
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php(93): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 93
+[09-Sep-2024 18:00:36 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[09-Sep-2024 18:00:36 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47
+[09-Sep-2024 18:02:51 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php:94) in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 95
+[09-Sep-2024 18:03:57 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php:94) in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 95
+[09-Sep-2024 18:07:05 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[09-Sep-2024 18:07:05 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47
+[09-Sep-2024 18:09:16 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[09-Sep-2024 18:09:16 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47
+[09-Sep-2024 18:20:04 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[09-Sep-2024 18:20:04 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47
+[09-Sep-2024 18:21:09 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[09-Sep-2024 18:21:09 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47
+[09-Sep-2024 18:35:55 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[09-Sep-2024 18:35:55 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47
+[10-Sep-2024 07:10:28 America/Fortaleza] PHP Warning:  move_uploaded_file(uploads/fundo2.jpg): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 50
+[10-Sep-2024 07:10:28 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php5f4EXA&quot; to &quot;uploads/fundo2.jpg&quot; in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 50
+[10-Sep-2024 07:10:57 America/Fortaleza] PHP Warning:  move_uploaded_file(uploads/fundo2.jpg): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 50
+[10-Sep-2024 07:10:57 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php0bDZTG&quot; to &quot;uploads/fundo2.jpg&quot; in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 50
+[10-Sep-2024 07:14:48 America/Fortaleza] PHP Warning:  move_uploaded_file(uploads/fundo2.jpg): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 50
+[10-Sep-2024 07:14:48 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpjWqCI3&quot; to &quot;uploads/fundo2.jpg&quot; in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 50
+[10-Sep-2024 07:16:25 America/Fortaleza] PHP Warning:  move_uploaded_file(../casamento/uploads/fundo 5.jpg): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 50
+[10-Sep-2024 07:16:25 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpz28YJC&quot; to &quot;../casamento/uploads/fundo 5.jpg&quot; in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 50
+[10-Sep-2024 07:17:49 America/Fortaleza] PHP Warning:  move_uploaded_file(../casamento/uploads/fundo 5.jpg): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 50
+[10-Sep-2024 07:17:49 America/Fortaleza] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpoCH55H&quot; to &quot;../casamento/uploads/fundo 5.jpg&quot; in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/alterar.php on line 50
+[13-Sep-2024 18:46:46 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[13-Sep-2024 18:46:46 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47
+[13-Sep-2024 18:49:12 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[13-Sep-2024 18:49:12 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47
+[15-Sep-2024 18:04:48 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[15-Sep-2024 18:04:48 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47
+[15-Sep-2024 18:05:11 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[15-Sep-2024 18:05:11 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47
+[27-Sep-2024 19:41:56 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[27-Sep-2024 19:41:56 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47
+[24-Nov-2024 19:19:21 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noiva" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 38
+[24-Nov-2024 19:19:21 America/Fortaleza] PHP Warning:  Undefined array key "estado_civil_pais_noivo" in /home1/adtc2m99/public_html/sistemas/adtc2/casamento/generate.php on line 47

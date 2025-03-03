@@ -1,0 +1,49 @@
+#certificado
+{
+    width: 970px;
+    height: 750px;
+}
+#nome_pai
+{
+text-align: justify;
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+font-size: 22px;
+text-indent: 20px;
+margin-top: -399px;
+margin-left: 21px;
+color: #050d59;
+}
+#nome_mae
+{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 22px;    
+    text-indent: 20px;
+    margin-top: -31px;
+    margin-left: 497px;
+    color: #050d59;
+    }
+#nome_crianca
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 22px;   
+    text-indent: 20px;
+    margin-top: -128px;
+    margin-left: -151px;
+    color: #050d59;
+    }
+#dt_apresentacao
+{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 22px;   
+    text-indent: 20px;
+    margin-top: 285px;
+    margin-left: 377px;
+    color: #F4A460;
+    }

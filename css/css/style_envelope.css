@@ -1,0 +1,150 @@
+#foto_carteira_env
+{
+  width:150px;
+  height:198px; 
+  margin-top:278px;
+  margin-left:-225px;
+
+}
+
+#frente_carteira_envelope
+{  	
+  width:500px;
+  height:300px;
+  margin-top:53px;
+  margin-left:50px;
+  margin-right:0px ;
+  border-radius: 10px;
+  font-family: Trebuchet MS, sans-serif; 
+  text-transform: uppercase;
+  font-size: 12px;
+  
+ 
+}
+
+#verso_carteira
+{
+  width:500px;
+  height:300px; 
+  margin-top:336px;
+  margin-left:-492px;
+  margin-right:0px ;
+  border-radius: 10px;
+
+  
+}
+
+
+#logo_env
+{
+  margin-left:-38px;
+  margin-top:-80px;
+  width:471px;
+  height:600px;
+  
+	
+}
+#fundo_env
+{
+ 
+  width:540px;
+  height:690px;
+  margin-top:10px;
+  margin-left:-23px;
+  margin-right:0px ;
+  border-radius: 10px;
+  border:1px solid #ccc;
+
+
+}
+#fundo_verso
+{
+ 
+  width:500px;
+  height:300px; 
+  margin-top:-293px;
+  margin-left:501px;
+  margin-right:0px ;
+  border-radius: 10px;
+  border:1px solid #ccc;
+
+
+}
+
+#texto_topo
+{
+  margin-top:-576px;
+  margin-left:100px;
+  width:434px;
+  height:114px;
+
+}
+#corpo_env
+{
+  width:50px;
+  height:50px;
+  font-family: "OCR A Std", monospace; 
+  font-size: 12px; 
+  margin-top:146px;
+  text-align:left;
+  margin-left:23px;
+  text-transform: uppercase;
+  line-height:4px
+}
+#corpo_verso
+{
+
+  width:435px;
+  height:50px;  
+  margin-top:-283px;
+  margin-left:541px;
+  padding:0px;
+
+}
+
+#dados_frente_env
+{  
+  width:500px;
+  color:#000;
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 17px;
+  text-align:left;
+  text-transform: uppercase;
+
+  margin-top:-491px;
+  margin-left:-138px;
+  text-shadow: 1px 0px 0px #FFF, 
+                 -1px 0px 0px #FFF, 
+                 0px 1px 0px #FFF, 
+                 0px -1px 0px #FFF; 
+}
+#dados_frente_env1
+{  
+  width:600px;
+  color:#000;
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 16px;
+  text-align:left;
+  text-transform: uppercase;
+  color:#000;
+  
+  margin-top:58px;
+  margin-left:-308px;
+  text-shadow: 1px 0px 0px #FFF, 
+                 -1px 0px 0px #FFF, 
+                 0px 1px 0px #FFF, 
+                 0px -1px 0px #FFF;
+   
+}
+
+#cab_cartao_env
+{
+  width:400px;
+  height:20px;
+  margin-top:142px;
+  margin-left:-408px;
+  color:#d90939; 
+  font-size:20px;
+  text-align:left;
+
+}

@@ -1,0 +1,30 @@
+[03-Jan-2025 19:56:22 America/Fortaleza] PHP Warning:  Undefined array key "id_digitalizados" in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php on line 23
+[03-Jan-2025 19:56:22 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php:27
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php(27): PDO->query('DELETE FROM  do...')
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php on line 27
+[03-Jan-2025 19:56:31 America/Fortaleza] PHP Warning:  Undefined array key "id_digitalizados" in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php on line 23
+[03-Jan-2025 19:56:31 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php:27
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php(27): PDO->query('DELETE FROM  do...')
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php on line 27
+[02-Feb-2025 18:33:30 America/Fortaleza] PHP Warning:  Undefined variable $_UP in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/cadastro_doc_digitalizados.php on line 28
+[02-Feb-2025 18:33:30 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/cadastro_doc_digitalizados.php on line 28
+[02-Feb-2025 18:33:30 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/cadastro_doc_digitalizados.php on line 28
+[02-Feb-2025 18:33:30 America/Fortaleza] PHP Warning:  Undefined variable $_UP in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/cadastro_doc_digitalizados.php on line 28
+[02-Feb-2025 18:33:30 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/cadastro_doc_digitalizados.php on line 28
+[02-Feb-2025 18:33:30 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/cadastro_doc_digitalizados.php on line 28
+[02-Feb-2025 18:36:14 America/Fortaleza] PHP Warning:  Undefined array key "id_digitalizados" in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php on line 23
+[02-Feb-2025 18:36:14 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php:27
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php(27): PDO->query('DELETE FROM  do...')
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php on line 27
+[02-Feb-2025 18:40:17 America/Fortaleza] PHP Warning:  Undefined array key "id_digitalizados" in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php on line 23
+[02-Feb-2025 18:40:17 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php:27
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php(27): PDO->query('DELETE FROM  do...')
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/gestao_doc/excluir_documento_digitalizados.php on line 27

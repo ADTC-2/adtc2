@@ -1,0 +1,638 @@
+[15-Aug-2023 18:27:59 America/Fortaleza] PHP Warning:  require_once(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php on line 13
+[15-Aug-2023 18:27:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php on line 13
+[15-Aug-2023 18:29:02 America/Fortaleza] PHP Warning:  require_once(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php on line 13
+[15-Aug-2023 18:29:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php on line 13
+[15-Aug-2023 18:29:03 America/Fortaleza] PHP Warning:  require_once(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php on line 13
+[15-Aug-2023 18:29:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php on line 13
+[15-Aug-2023 18:29:08 America/Fortaleza] PHP Warning:  require_once(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php on line 13
+[15-Aug-2023 18:29:08 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php on line 13
+[15-Aug-2023 18:31:18 America/Fortaleza] PHP Warning:  require_once(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php on line 13
+[15-Aug-2023 18:31:18 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php:13
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_cadastro.php on line 13
+[15-Aug-2023 19:06:04 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:06:04 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:06:04 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:06:56 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:06:56 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:06:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:09:56 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:09:56 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:09:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:15:11 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:15:11 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:15:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:18:34 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:18:34 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:18:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:19:21 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:19:21 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:19:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:24:49 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:24:49 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:24:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:25:27 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:25:27 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:25:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:29:17 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:29:17 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:29:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:29:42 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:29:42 America/Fortaleza] PHP Warning:  require(db/config.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:29:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'db/config.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php:17
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_cad_patrimonio.php on line 17
+[15-Aug-2023 19:40:21 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 151
+[15-Aug-2023 19:40:21 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 151
+[15-Aug-2023 19:40:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:151
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 151
+[15-Aug-2023 19:45:56 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 154
+[15-Aug-2023 19:45:56 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 154
+[15-Aug-2023 19:45:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:154
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 154
+[15-Aug-2023 19:50:03 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 160
+[15-Aug-2023 19:50:03 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 160
+[15-Aug-2023 19:50:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:160
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 160
+[15-Aug-2023 19:52:41 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 172
+[15-Aug-2023 19:52:41 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 172
+[15-Aug-2023 19:52:41 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:172
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 172
+[15-Aug-2023 19:53:12 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 160
+[15-Aug-2023 19:53:12 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 160
+[15-Aug-2023 19:53:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:160
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 160
+[15-Aug-2023 19:53:15 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 160
+[15-Aug-2023 19:53:15 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 160
+[15-Aug-2023 19:53:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:160
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 160
+[15-Aug-2023 19:53:53 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 160
+[15-Aug-2023 19:53:53 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 160
+[15-Aug-2023 19:53:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:160
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 160
+[15-Aug-2023 19:56:11 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 161
+[15-Aug-2023 19:56:11 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 161
+[15-Aug-2023 19:56:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:161
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 161
+[15-Aug-2023 19:56:13 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 161
+[15-Aug-2023 19:56:13 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 161
+[15-Aug-2023 19:56:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:161
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 161
+[15-Aug-2023 19:57:28 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 162
+[15-Aug-2023 19:57:28 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 162
+[15-Aug-2023 19:57:28 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:162
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 162
+[15-Aug-2023 19:57:30 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 162
+[15-Aug-2023 19:57:30 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 162
+[15-Aug-2023 19:57:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:162
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 162
+[15-Aug-2023 19:57:31 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 162
+[15-Aug-2023 19:57:31 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 162
+[15-Aug-2023 19:57:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:162
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 162
+[15-Aug-2023 19:58:32 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 163
+[15-Aug-2023 19:58:32 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 163
+[15-Aug-2023 19:58:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:163
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 163
+[15-Aug-2023 19:59:25 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 19:59:25 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 19:59:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:03:33 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:03:33 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:03:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:03:45 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:03:45 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:03:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:05:06 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:05:06 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:05:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:05:08 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:05:08 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:05:08 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:06:03 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:06:03 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:06:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:06:07 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:06:07 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:06:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:06:50 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:06:50 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:06:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:07:00 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:07:00 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[15-Aug-2023 20:07:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:01:12 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:01:12 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:01:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:01:22 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:01:22 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:01:22 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:02:20 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:02:20 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:02:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:02:38 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:02:38 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:02:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:03:05 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:03:05 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:03:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:03:07 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:03:07 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 11:03:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 13:54:31 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 13:54:31 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 13:54:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 14:46:59 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 34
+[16-Aug-2023 14:46:59 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 38
+[16-Aug-2023 14:46:59 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:1) in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 41
+[16-Aug-2023 14:48:56 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 34
+[16-Aug-2023 14:48:56 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 38
+[16-Aug-2023 14:48:56 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:1) in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 41
+[16-Aug-2023 14:49:44 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 34
+[16-Aug-2023 14:49:44 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 38
+[16-Aug-2023 14:49:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:1) in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 41
+[16-Aug-2023 14:56:48 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 34
+[16-Aug-2023 14:56:48 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 38
+[16-Aug-2023 14:56:48 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:1) in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 41
+[16-Aug-2023 14:57:44 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 30
+[16-Aug-2023 14:57:44 America/Fortaleza] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 34
+[16-Aug-2023 14:57:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:1) in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 37
+[16-Aug-2023 15:06:48 America/Fortaleza] PHP Warning:  Undefined variable $congregacao in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 35
+[16-Aug-2023 15:06:48 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:36
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php(36): PDO->query(' SELECT id_patr...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 36
+[16-Aug-2023 15:08:34 America/Fortaleza] PHP Warning:  Undefined variable $congregacao in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 35
+[16-Aug-2023 15:08:34 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:36
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php(36): PDO->query(' SELECT id_patr...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 36
+[16-Aug-2023 15:09:10 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:37
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php(37): PDO->query(' SELECT id_patr...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 37
+[16-Aug-2023 15:11:15 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:37
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php(37): PDO->query(' SELECT id_patr...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 37
+[16-Aug-2023 15:15:15 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 15:15:15 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 15:15:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 15:16:55 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:37
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php(37): PDO->query(' SELECT id_patr...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 37
+[16-Aug-2023 15:39:11 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 15:39:11 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 15:39:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[16-Aug-2023 16:14:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:19) in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 24
+[16-Aug-2023 16:14:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:19) in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 25
+[16-Aug-2023 16:18:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:19) in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 24
+[16-Aug-2023 16:18:11 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:19) in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 25
+[16-Aug-2023 16:18:14 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:19) in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 24
+[16-Aug-2023 16:18:14 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:19) in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 25
+[16-Aug-2023 16:22:43 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'SEDE' in 'where clause' in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php:20
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php(20): PDO->query('SELECT id_patri...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/relatorios_patrimonio.php on line 20
+[17-Aug-2023 09:03:49 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[17-Aug-2023 09:03:49 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[17-Aug-2023 09:03:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[17-Aug-2023 15:08:43 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[17-Aug-2023 15:08:43 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[17-Aug-2023 15:08:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[19-Aug-2023 14:08:29 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[19-Aug-2023 14:08:29 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[19-Aug-2023 14:08:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[19-Aug-2023 14:13:45 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[19-Aug-2023 14:13:45 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[19-Aug-2023 14:13:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:02:33 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:02:33 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:02:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:02:44 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:02:44 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:02:44 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:02:45 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:02:45 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:02:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:11:09 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:11:09 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:11:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:164
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 164
+[03-Sep-2023 06:12:54 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 167
+[03-Sep-2023 06:12:54 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 167
+[03-Sep-2023 06:12:54 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:167
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 167
+[03-Sep-2023 06:13:38 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 168
+[03-Sep-2023 06:13:38 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 168
+[03-Sep-2023 06:13:38 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:168
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 168
+[03-Sep-2023 06:13:51 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 168
+[03-Sep-2023 06:13:51 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 168
+[03-Sep-2023 06:13:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:168
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 168
+[03-Sep-2023 06:14:42 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:14:42 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:14:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:14:44 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:14:44 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:14:44 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:14:45 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:14:45 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:14:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:14:49 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:14:49 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:14:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:15:12 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:15:12 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:15:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:15:17 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:15:17 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:15:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:31:05 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:31:05 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:31:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:31:08 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php on line 19
+[03-Sep-2023 06:31:08 America/Fortaleza] PHP Warning:  Undefined array key "solicitante" in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php on line 20
+[03-Sep-2023 06:31:08 America/Fortaleza] PHP Warning:  Undefined array key "tipo_evento" in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php on line 21
+[03-Sep-2023 06:31:08 America/Fortaleza] PHP Warning:  Undefined array key "horario" in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php on line 22
+[03-Sep-2023 06:31:08 America/Fortaleza] PHP Warning:  Undefined array key "data_evento" in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php on line 23
+[03-Sep-2023 06:31:08 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php on line 24
+[03-Sep-2023 06:31:08 America/Fortaleza] PHP Warning:  Undefined array key "situacao" in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php on line 25
+[03-Sep-2023 06:31:16 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:31:16 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:31:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:32:19 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:32:19 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:32:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:32:36 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:32:36 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:32:36 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:33:05 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:33:05 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:33:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:33:16 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:33:16 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:33:16 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:33:50 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:33:50 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:33:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:34:00 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:34:00 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:34:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:35:55 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:35:55 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:35:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:35:56 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:35:56 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:35:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:36:09 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:36:09 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:36:09 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:39:50 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:39:50 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:39:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:39:53 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:39:53 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:39:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:40:05 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:40:05 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:40:05 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:41:10 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:41:10 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:41:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:45:30 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:45:30 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:45:30 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:45:33 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:45:33 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:45:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:47:58 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:47:58 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:47:58 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:49:29 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:49:29 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:49:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:52:12 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3'' at line 1 in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php:27
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php(27): PDO->query('UPDATE patrimon...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php on line 27
+[03-Sep-2023 06:53:28 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3'' at line 1 in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php:27
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php(27): PDO->query('UPDATE patrimon...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php on line 27
+[03-Sep-2023 06:54:55 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '3'' at line 1 in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php:27
+Stack trace:
+#0 /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php(27): PDO->query('UPDATE patrimon...')
+#1 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/procedimento_alterar_patrimonio.php on line 27
+[03-Sep-2023 06:57:49 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:57:49 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:57:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:58:00 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:58:00 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 06:58:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 12:27:06 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 12:27:06 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[03-Sep-2023 12:27:06 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[09-Dec-2023 10:10:11 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[09-Dec-2023 10:10:11 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[09-Dec-2023 10:10:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[09-Dec-2023 10:10:43 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[09-Dec-2023 10:10:43 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[09-Dec-2023 10:10:43 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[10-Dec-2023 15:33:42 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[10-Dec-2023 15:33:42 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[10-Dec-2023 15:33:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home2/codig267/public_html/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[21-Jan-2024 23:21:49 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[21-Jan-2024 23:21:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[22-Jan-2024 10:41:12 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[22-Jan-2024 10:41:12 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[22-Jan-2024 20:17:07 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[22-Jan-2024 20:17:07 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[31-Jul-2024 08:48:39 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[31-Jul-2024 08:48:39 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[24-Aug-2024 23:18:45 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[24-Aug-2024 23:18:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[24-Aug-2024 23:18:55 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[24-Aug-2024 23:18:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[24-Aug-2024 23:18:56 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[24-Aug-2024 23:18:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[24-Aug-2024 23:19:02 America/Fortaleza] PHP Warning:  require(footer.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169
+[24-Aug-2024 23:19:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'footer.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php:169
+Stack trace:
+#0 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/patrimonio/tela_lista_patrimonio.php on line 169

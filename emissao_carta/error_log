@@ -1,0 +1,99 @@
+[14-Jun-2024 04:50:51 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 2
+[14-Jun-2024 04:50:51 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php:1) in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 9
+[14-Jun-2024 04:51:02 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 2
+[14-Jun-2024 04:51:02 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php:1) in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 9
+[14-Jun-2024 04:51:06 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 2
+[14-Jun-2024 04:51:06 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php:1) in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 9
+[14-Jun-2024 04:52:03 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 2
+[14-Jun-2024 04:52:03 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php:1) in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 9
+[14-Jun-2024 04:52:04 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 2
+[14-Jun-2024 04:52:04 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php:1) in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 9
+[14-Jun-2024 04:54:24 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 2
+[14-Jun-2024 04:54:24 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php:1) in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 9
+[14-Jun-2024 04:56:49 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 2
+[14-Jun-2024 04:56:49 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php:1) in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 9
+[14-Jun-2024 04:57:07 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 2
+[14-Jun-2024 04:57:07 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php:1) in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 9
+[14-Jun-2024 04:59:56 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/tela_emissao.php on line 45
+[14-Jun-2024 04:59:56 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/tela_emissao.php on line 45
+[14-Jun-2024 05:00:00 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/tela_emissao.php on line 45
+[14-Jun-2024 05:00:00 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/tela_emissao.php on line 45
+[14-Jun-2024 05:00:51 America/Fortaleza] PHP Warning:  Undefined global variable $_SESSION in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/tela_emissao.php on line 45
+[14-Jun-2024 05:00:51 America/Fortaleza] PHP Warning:  Trying to access array offset on value of type null in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/tela_emissao.php on line 45
+[06-Jul-2024 09:12:35 America/Fortaleza] PHP Warning:  Undefined array key "dataEmissao" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 179
+[06-Jul-2024 09:14:01 America/Fortaleza] PHP Warning:  Undefined array key "dataEmissao" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 179
+[06-Jul-2024 09:14:01 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 182
+[06-Jul-2024 09:14:37 America/Fortaleza] PHP Warning:  Undefined array key "dataEmissao" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 179
+[06-Jul-2024 09:14:37 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 182
+[06-Jul-2024 09:14:45 America/Fortaleza] PHP Warning:  Undefined array key "dataEmissao" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 179
+[06-Jul-2024 09:14:45 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 182
+[06-Jul-2024 09:14:52 America/Fortaleza] PHP Warning:  Undefined array key "dataEmissao" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 179
+[06-Jul-2024 09:14:52 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 182
+[06-Jul-2024 09:16:36 America/Fortaleza] PHP Warning:  Undefined array key "dataEmissao" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 179
+[06-Jul-2024 09:16:36 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 182
+[06-Jul-2024 09:16:54 America/Fortaleza] PHP Warning:  Undefined array key "dataEmissao" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 179
+[06-Jul-2024 09:16:54 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 182
+[06-Jul-2024 09:26:27 America/Fortaleza] PHP Warning:  Undefined array key "dataEmissao" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 179
+[06-Jul-2024 09:26:27 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 182
+[06-Jul-2024 09:33:57 America/Fortaleza] PHP Warning:  Undefined array key "dataEmissao" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 179
+[06-Jul-2024 09:33:57 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 182
+[06-Jul-2024 09:33:59 America/Fortaleza] PHP Warning:  Undefined array key "dataEmissao" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 179
+[06-Jul-2024 09:33:59 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 182
+[06-Jul-2024 09:39:36 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 194
+[06-Jul-2024 09:39:42 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 194
+[06-Jul-2024 09:39:43 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 194
+[06-Jul-2024 09:39:45 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 194
+[06-Jul-2024 09:39:46 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 194
+[13-Aug-2024 10:23:30 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_emissao.php on line 29
+[09-Sep-2024 08:02:56 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_emissao.php on line 29
+[09-Sep-2024 08:03:30 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_emissao.php on line 29
+[17-Sep-2024 17:28:23 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_emissao.php on line 29
+[20-Sep-2024 20:09:09 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_emissao.php on line 29
+[20-Sep-2024 20:09:44 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_emissao.php on line 29
+[29-Sep-2024 18:48:13 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_emissao.php on line 29
+[05-Jan-2025 16:18:14 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Francisco Ermano do Nascimento e família ' for key 'nome' in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php:44
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php on line 44
+[05-Jan-2025 16:18:17 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Francisco Ermano do Nascimento e família ' for key 'nome' in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php:44
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php on line 44
+[05-Jan-2025 16:18:18 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Francisco Ermano do Nascimento e família ' for key 'nome' in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php:44
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php on line 44
+[05-Jan-2025 16:18:18 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Francisco Ermano do Nascimento e família ' for key 'nome' in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php:44
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php on line 44
+[05-Jan-2025 16:18:18 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Francisco Ermano do Nascimento e família ' for key 'nome' in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php:44
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php on line 44
+[05-Jan-2025 16:18:21 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Francisco Ermano do Nascimento e família ' for key 'nome' in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php:44
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php on line 44
+[05-Jan-2025 16:20:04 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Francisco Ermano do Nascimento e família ' for key 'nome' in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php:44
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php(44): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_upload.php on line 44
+[17-Jan-2025 18:54:03 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 201
+[02-Feb-2025 21:08:01 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 201
+[02-Feb-2025 21:08:08 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 201
+[02-Feb-2025 21:10:19 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_emissao.php on line 29
+[16-Feb-2025 18:08:22 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 201
+[16-Feb-2025 18:51:36 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 201
+[16-Feb-2025 18:51:43 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 201
+[17-Feb-2025 21:27:44 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 201
+[17-Feb-2025 21:29:12 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_emissao.php on line 29
+[18-Feb-2025 06:50:38 America/Fortaleza] PHP Warning:  Undefined array key "nome_arquivo" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/index.php on line 201
+[18-Feb-2025 06:51:04 America/Fortaleza] PHP Warning:  Undefined array key "status" in /home1/adtc2m99/public_html/sistemas/adtc2/emissao_carta/processamento_emissao.php on line 29

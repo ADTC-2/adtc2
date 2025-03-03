@@ -1,0 +1,31 @@
+ /* Ajusta o tamanho da imagem para não quebrar o layout em telas pequenas */
+ .img-thumbnail {
+    max-width: 100px; /* Ajuste conforme necessário */
+    height: auto;
+}
+
+/* Garante que a tabela ocupe 100% da largura disponível e rola horizontalmente se necessário */
+.table-responsive {
+    overflow-x: auto;
+}
+
+/* Ajusta o estilo do cabeçalho e das células da tabela para telas pequenas */
+.table thead th {
+    white-space: nowrap;
+}
+
+.table td {
+    word-wrap: break-word;
+}
+
+/* Ajusta o tamanho do texto e dos botões para telas pequenas */
+@media (max-width: 767.98px) {
+    .table {
+        font-size: 0.875rem; /* Reduz o tamanho da fonte para telas pequenas */
+    }
+    .btn {
+        font-size: 0.75rem; /* Ajusta o tamanho dos botões */
+    }
+}
+
+

@@ -1,0 +1,112 @@
+@page {
+  size: A4;
+  /* Define o tamanho da página como A4 */
+  margin: 0;
+  /* Remove as margens da página */
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f0f0f0;
+  /* Cor de fundo para visualização */
+}
+
+.a4-size {
+  width: 210mm;
+  /* Largura da folha A4 */
+  height: 297mm;
+  /* Altura da folha A4 */
+  border: 1px solid black;
+  /* Borda para visualização */
+  background-color: white;
+  /* Cor de fundo branca */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  box-sizing: border-box;
+  padding: 20px;
+  position: relative;
+}
+#congregacao {
+  margin-top: -50px;
+  margin-left: 0px;
+  color: rgb(128, 0, 0); /* Vermelho quase marrom */
+  text-align: center;
+  font-size: 22px; /* Aumente ou diminua conforme necessário */
+  font-family: 'Roboto', sans-serif; /* Fonte moderna */
+  letter-spacing: 1px; /* Espaçamento entre letras */
+  line-height: 1.5; /* Melhor legibilidade */
+  font-weight: bold; /* Negrito */
+}
+.frente_envelope {
+  width: 110mm;
+  /* Largura de 11 cm */
+  height: 170mm;
+  /* Altura de 17 cm */
+
+  /* Borda para visualização */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 20px;
+  /* Ajuste para espaçamento do topo */
+  left: 2px;
+  /* Ajuste para espaçamento do lado esquerdo */
+  background-image: url('../envelope/imagens/new_envelope_diz.png');
+  /* URL da sua imagem de fundo */
+  background-size: cover;
+  /* Ajusta a imagem para cobrir todo o elemento */
+  background-position: center;
+  /* Centraliza a imagem no elemento */
+  background-repeat: no-repeat;
+}
+
+@media print {
+  body {
+    margin: 0;
+    box-shadow: none;
+    display: block;
+    /* Para evitar problemas de impressão */
+  }
+
+  .a4-size {
+    margin: auto;
+    border: none;
+    /* Remove a borda na impressão */
+    page-break-after: always;
+    page-break-before: avoid;
+    /* Evita quebras de página antes do elemento */
+  }
+
+  .frente_envelope {
+    border: none;
+    /* Remove a borda na impressão */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 110mm;
+    /* Largura de 11 cm */
+    height: 170mm;
+    /* Altura de 17 cm */
+    background-image: url('../envelope/imagens/new_envelope_diz.png');
+    /* URL da sua imagem de fundo */
+    background-size: cover;
+    /* Ajusta a imagem para cobrir todo o elemento na impressão */
+    background-position: center;
+    /* Centraliza a imagem no elemento */
+    background-repeat: no-repeat;
+    -webkit-print-color-adjust: exact;
+    /* Assegura que a cor da imagem seja impressa corretamente */
+    print-color-adjust: exact;
+    /* Assegura que a cor da imagem seja impressa corretamente */
+  }
+}

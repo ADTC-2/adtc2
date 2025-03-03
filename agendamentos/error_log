@@ -1,0 +1,91 @@
+[15-Jun-2024 13:04:09 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 19
+[15-Jun-2024 13:04:09 America/Fortaleza] PHP Warning:  Undefined array key "solicitante" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 20
+[15-Jun-2024 13:04:09 America/Fortaleza] PHP Warning:  Undefined array key "tipo_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 21
+[15-Jun-2024 13:04:09 America/Fortaleza] PHP Warning:  Undefined array key "horario" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 22
+[15-Jun-2024 13:04:09 America/Fortaleza] PHP Warning:  Undefined array key "data_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 23
+[15-Jun-2024 13:04:09 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 24
+[15-Jun-2024 13:04:09 America/Fortaleza] PHP Warning:  Undefined array key "situacao" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 25
+[15-Jun-2024 13:04:26 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 19
+[15-Jun-2024 13:04:26 America/Fortaleza] PHP Warning:  Undefined array key "solicitante" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 20
+[15-Jun-2024 13:04:26 America/Fortaleza] PHP Warning:  Undefined array key "tipo_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 21
+[15-Jun-2024 13:04:26 America/Fortaleza] PHP Warning:  Undefined array key "horario" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 22
+[15-Jun-2024 13:04:26 America/Fortaleza] PHP Warning:  Undefined array key "data_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 23
+[15-Jun-2024 13:04:26 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 24
+[15-Jun-2024 13:04:26 America/Fortaleza] PHP Warning:  Undefined array key "situacao" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 25
+[15-Jun-2024 13:04:38 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 19
+[15-Jun-2024 13:04:38 America/Fortaleza] PHP Warning:  Undefined array key "solicitante" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 20
+[15-Jun-2024 13:04:38 America/Fortaleza] PHP Warning:  Undefined array key "tipo_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 21
+[15-Jun-2024 13:04:38 America/Fortaleza] PHP Warning:  Undefined array key "horario" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 22
+[15-Jun-2024 13:04:38 America/Fortaleza] PHP Warning:  Undefined array key "data_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 23
+[15-Jun-2024 13:04:38 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 24
+[15-Jun-2024 13:04:38 America/Fortaleza] PHP Warning:  Undefined array key "situacao" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 25
+[15-Jun-2024 16:41:53 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 19
+[15-Jun-2024 16:41:53 America/Fortaleza] PHP Warning:  Undefined array key "solicitante" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 20
+[15-Jun-2024 16:41:53 America/Fortaleza] PHP Warning:  Undefined array key "tipo_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 21
+[15-Jun-2024 16:41:53 America/Fortaleza] PHP Warning:  Undefined array key "horario" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 22
+[15-Jun-2024 16:41:53 America/Fortaleza] PHP Warning:  Undefined array key "data_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 23
+[15-Jun-2024 16:41:53 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 24
+[15-Jun-2024 16:41:53 America/Fortaleza] PHP Warning:  Undefined array key "situacao" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 25
+[15-Jun-2024 16:54:12 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 19
+[15-Jun-2024 16:54:12 America/Fortaleza] PHP Warning:  Undefined array key "solicitante" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 20
+[15-Jun-2024 16:54:12 America/Fortaleza] PHP Warning:  Undefined array key "tipo_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 21
+[15-Jun-2024 16:54:12 America/Fortaleza] PHP Warning:  Undefined array key "horario" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 22
+[15-Jun-2024 16:54:12 America/Fortaleza] PHP Warning:  Undefined array key "data_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 23
+[15-Jun-2024 16:54:12 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 24
+[15-Jun-2024 16:54:12 America/Fortaleza] PHP Warning:  Undefined array key "situacao" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 25
+[20-Jun-2024 14:25:44 America/Fortaleza] PHP Warning:  Undefined array key 8 in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/lista_agendamentos.php on line 24
+[20-Jun-2024 14:25:44 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'asc
+        LIMIT 0, 10' at line 10 in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/lista_agendamentos.php:49
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/lista_agendamentos.php(49): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/lista_agendamentos.php on line 49
+[21-Jun-2024 18:55:54 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 19
+[21-Jun-2024 18:55:54 America/Fortaleza] PHP Warning:  Undefined array key "solicitante" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 20
+[21-Jun-2024 18:55:54 America/Fortaleza] PHP Warning:  Undefined array key "tipo_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 21
+[21-Jun-2024 18:55:54 America/Fortaleza] PHP Warning:  Undefined array key "horario" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 22
+[21-Jun-2024 18:55:54 America/Fortaleza] PHP Warning:  Undefined array key "data_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 23
+[21-Jun-2024 18:55:54 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 24
+[21-Jun-2024 18:55:54 America/Fortaleza] PHP Warning:  Undefined array key "situacao" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 25
+[21-Jun-2024 18:56:06 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 19
+[21-Jun-2024 18:56:06 America/Fortaleza] PHP Warning:  Undefined array key "solicitante" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 20
+[21-Jun-2024 18:56:06 America/Fortaleza] PHP Warning:  Undefined array key "tipo_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 21
+[21-Jun-2024 18:56:06 America/Fortaleza] PHP Warning:  Undefined array key "horario" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 22
+[21-Jun-2024 18:56:06 America/Fortaleza] PHP Warning:  Undefined array key "data_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 23
+[21-Jun-2024 18:56:06 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 24
+[21-Jun-2024 18:56:06 America/Fortaleza] PHP Warning:  Undefined array key "situacao" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 25
+[21-Jun-2024 18:56:17 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 19
+[21-Jun-2024 18:56:17 America/Fortaleza] PHP Warning:  Undefined array key "solicitante" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 20
+[21-Jun-2024 18:56:17 America/Fortaleza] PHP Warning:  Undefined array key "tipo_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 21
+[21-Jun-2024 18:56:17 America/Fortaleza] PHP Warning:  Undefined array key "horario" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 22
+[21-Jun-2024 18:56:17 America/Fortaleza] PHP Warning:  Undefined array key "data_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 23
+[21-Jun-2024 18:56:17 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 24
+[21-Jun-2024 18:56:17 America/Fortaleza] PHP Warning:  Undefined array key "situacao" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 25
+[21-Jun-2024 18:59:12 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 19
+[21-Jun-2024 18:59:12 America/Fortaleza] PHP Warning:  Undefined array key "solicitante" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 20
+[21-Jun-2024 18:59:12 America/Fortaleza] PHP Warning:  Undefined array key "tipo_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 21
+[21-Jun-2024 18:59:12 America/Fortaleza] PHP Warning:  Undefined array key "horario" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 22
+[21-Jun-2024 18:59:12 America/Fortaleza] PHP Warning:  Undefined array key "data_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 23
+[21-Jun-2024 18:59:12 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 24
+[21-Jun-2024 18:59:12 America/Fortaleza] PHP Warning:  Undefined array key "situacao" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 25
+[21-Jun-2024 18:59:28 America/Fortaleza] PHP Warning:  Undefined array key "id" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 19
+[21-Jun-2024 18:59:28 America/Fortaleza] PHP Warning:  Undefined array key "solicitante" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 20
+[21-Jun-2024 18:59:28 America/Fortaleza] PHP Warning:  Undefined array key "tipo_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 21
+[21-Jun-2024 18:59:28 America/Fortaleza] PHP Warning:  Undefined array key "horario" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 22
+[21-Jun-2024 18:59:28 America/Fortaleza] PHP Warning:  Undefined array key "data_evento" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 23
+[21-Jun-2024 18:59:28 America/Fortaleza] PHP Warning:  Undefined array key "telefone" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 24
+[21-Jun-2024 18:59:28 America/Fortaleza] PHP Warning:  Undefined array key "situacao" in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/procedimento_alterar_agendamento.php on line 25
+[24-Jul-2024 20:59:34 America/Fortaleza] PHP Warning:  Undefined array key 8 in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/lista_agendamentos.php on line 24
+[24-Jul-2024 20:59:34 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'asc
+        LIMIT 0, 10' at line 10 in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/lista_agendamentos.php:49
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/lista_agendamentos.php(49): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/lista_agendamentos.php on line 49
+[24-Jul-2024 20:59:37 America/Fortaleza] PHP Warning:  Undefined array key 10 in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/lista_agendamentos.php on line 24
+[24-Jul-2024 20:59:37 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'asc
+        LIMIT 0, 10' at line 10 in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/lista_agendamentos.php:49
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/lista_agendamentos.php(49): PDOStatement->execute()
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/agendamentos/lista_agendamentos.php on line 49

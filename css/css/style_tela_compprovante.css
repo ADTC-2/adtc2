@@ -1,0 +1,247 @@
+#frente_carteira
+{  	
+  width:500px;
+  height:300px;
+  margin-top:53px;
+  margin-left:50px;
+  margin-right:0px ;
+  border-radius: 10px;
+  font-family: Trebuchet MS, sans-serif; 
+  text-transform: uppercase;
+  font-size: 12px;
+  
+ 
+}
+
+#verso_carteira
+{
+  width:500px;
+  height:300px; 
+  margin-top:336px;
+  margin-left:-492px;
+  margin-right:0px ;
+  border-radius: 10px;
+
+  
+}
+#msg_mes
+{
+  height:185px;
+  width:380px;
+  margin-top:3px;
+  margin-left:281px;
+}
+#nome_igreja
+{
+  margin-left:-395px;
+  margin-top:144px;
+  width:200px;
+  height:0px;
+}
+#nome_igreja1
+{
+  margin-left:-390px;
+  margin-top:144px;
+  width:200px;
+  height:0px;
+}
+#logo_comprovante
+{
+  margin-left:49px;
+  margin-top:-50px;
+  width:186px;
+  height:132px;
+ 
+}
+#fundo_comprovante
+{
+ 
+  width:700px;
+  height:200px;
+  margin-top:0px;
+  margin-left:-23px;
+  margin-right:0px ;
+  border-radius: 10px;
+  border:1px solid #000;
+
+
+}
+#fundo_verso
+{
+ 
+  width:500px;
+  height:300px; 
+  margin-top:-293px;
+  margin-left:501px;
+  margin-right:0px ;
+  border-radius: 10px;
+  border:1px solid #ccc;
+
+
+}
+.topo_comprovante
+{
+  height:193px;
+  width:906px;
+  border:1px solid #ccc;
+  margin-top:-40px;
+  margin-left:88px;
+ 
+}
+#texto_topo
+{
+  margin-top:-576px;
+  margin-left:100px;
+  width:434px;
+  height:114px;
+
+}
+#infor_corpo
+{
+  width:600px;
+  height:50px;
+  font-family: "Impact, fantasy"; 
+  font-size: 15px; 
+  margin-top:-166px;
+  text-align:left;
+  margin-left:394px;
+  text-transform: uppercase;
+  line-height:4px;
+  color:#661; 
+
+}
+#label_comprovantes
+{
+  color:red;
+}
+#letreiro_central
+{
+
+  width:435px;
+  height:50px;  
+  margin-top:168px;
+  margin-left:-402px;
+ 
+
+}
+#letreiro_central1
+{
+
+  width:435px;
+  height:50px;  
+  margin-top:86px;
+  margin-left:86px;
+ 
+}
+
+#dados_frente
+{  
+  width:500px;
+  color:#000;
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 12px;
+  text-align:left;
+  text-transform: uppercase;
+  padding:-36px;
+  margin-top:0px; 
+}
+#dados_verso
+{  
+  width:440px;
+  color:#000; 
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 12px;
+  text-align:left;
+  text-transform: uppercase;
+  line-height:4px
+}
+#cab_cartao
+{
+  width:400px;
+  height:20px;
+  margin-top:128px;
+  margin-left:-347px;
+  color:#000; 
+  font-size:20px;
+  text-align:left;
+
+}
+
+.central
+{
+
+  width:500px;
+  height:32px;
+  margin-top:23px; 
+  margin-left:511px; 
+  color:#000; 
+  font-family: "Times New Roman", Times, serif; 
+  font-size: 11px;
+  text-align:left;
+  padding:26px;
+
+}
+/*CSS para impressão */
+@media print {
+
+  * {
+background:transparent !important;
+color:#000 !important;
+text-shadow:none !important;
+filter:none !important;
+-ms-filter:none !important;
+}
+
+body {
+margin:0;
+padding:0;
+line-height: 1.4em;
+}
+
+@page {
+margin: 0.5cm;
+}
+
+nav, footer, video, audio, object, embed { 
+display:none; 
+}
+
+
+
+}
+#endereco_meu1
+{
+  width:553px;
+  height:0px;
+  margin-top:169px;
+  margin-left:1px;
+  text-shadow: 1px 0px 0px #FFF, 
+                 -1px 0px 0px #FFF, 
+                 0px 1px 0px #FFF, 
+                 0px -1px 0px #FFF;
+  
+    font-size:93%;
+    font-weight: 800
+    color:#006400;
+    font-family: "OCR A Std", monospace; 
+  ; 
+    
+}
+#endereco_me3
+{
+  width:553px;
+  height:0px;
+  margin-top:-138px;
+  margin-left:77px;
+ 
+  text-shadow: 6px 0px 0px #FFF, 
+                 -1px 0px 0px #FFF, 
+                 0px 1px 0px #FFF, 
+                 0px -1px 0px #FFF;
+    font-size:93%;
+   
+    color:#FF8C00;
+    font-weight: 800
+  ; 
+    
+}

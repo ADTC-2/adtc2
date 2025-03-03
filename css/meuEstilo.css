@@ -1,0 +1,209 @@
+	
+
+
+#logo
+
+{
+
+  width:0px;
+
+  height:0px;
+
+  margin-left:-26px;
+
+  margin-top:0px;   
+
+
+
+}
+
+
+#info_cabecalho
+
+{
+
+		margin-top:-1297px;
+		margin-left:21px;
+		 font-size:18px;
+		 width:1254px;
+
+}
+
+#info_texto{ 
+	width: 1024px;
+	   margin-left:-8px;
+
+	   margin-top:-1022px;
+
+	   font-size:20px; 
+
+	   font-family:"Arial";
+
+	   text-align:justify;
+	   padding: 72px;
+
+	   
+
+}
+
+#info_tipocarta1
+
+{
+
+       margin-left:477px;
+
+	   margin-top:-1158px;
+
+}
+#info_tipocarta2
+
+{
+	
+	margin-left:16px;
+
+	margin-top:-1125px;
+
+}
+#info_tipocarta3
+
+{
+
+	margin-left:18px;
+
+	margin-top:-1091px;
+
+}
+
+
+#info_assinatura
+
+{
+
+	
+       margin-left:169px;
+	   margin-top:-224px;
+	   width: auto;
+
+
+
+}
+#info_assinatura1
+
+{
+
+	
+       margin-left:169px;
+	   margin-top:-224px;
+	   width: auto;
+
+
+
+}
+
+#img_ass
+
+{
+
+	margin-left:33px;
+
+	margin-top:0px;
+
+	width:500px;
+
+	height:30px;  
+
+
+
+}
+
+#linha
+
+{
+
+	margin-left:17px;
+
+	margin-top:-33px;
+
+}
+
+#nome_ass
+
+{
+
+	margin-left:-6px;
+
+	margin-top:-22px;
+
+}
+
+#argo_pastor
+
+{
+
+	margin-left:462px;
+
+	margin-top:-22px;
+
+}
+
+#logo
+
+{
+
+   width:250px;
+
+   height:120px; 
+
+   margin-left:365px;
+
+   margin-top:0px;
+
+
+
+}
+#img_logo{
+
+	width: 200px;
+	height: 150px;
+	margin-left:0px;
+    margin-top:0px;
+}
+
+.pagina-erro
+{
+	margin-left:500px;
+    margin-top:300px;
+
+}
+#img_erro
+{
+	width: 200px;
+	height: 150px;
+	margin-left:643px;
+    margin-top:0px;
+}
+#fundo_carta_novo{
+	width:1020px;
+	height:1451px; 
+	margin-top:0px;	
+	margin-left: 0px;
+
+}
+#nomeDaAssinatura
+{
+	margin-left:-316px;
+
+	margin-top:-207px;
+}
+#nomeDaAssinatura1
+{
+	margin-left:-247px;
+
+	margin-top:-191px;
+}
+/*CSS para impressão*/
+@media print {
+  #texto_imprimir{
+  display: none;
+  }
+}

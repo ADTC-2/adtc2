@@ -1,0 +1,76 @@
+.conteiner{
+    margin-top: 50px;
+    margin-left: 20px; 
+    width: 370px; 
+    height: 400px;
+    border: 1px solid #04195c;
+}
+.texto1_diz
+{
+   width: 0px;
+   height: 0px;
+   margin-top: 0px;
+   margin-left: 0px;   
+}
+.texto2_diz
+{
+   width: 0px;
+   height: 0px;
+   margin-top: 0px;
+   margin-left: 0px;
+   
+}
+.texto3_diz
+{
+   width: 0px;
+   height: 0px;
+   margin-top: 0px;
+   margin-left: 0px;  
+}
+.texto4_diz
+{
+   width: 0px;
+   height: 0px;
+   margin-top: 0px;
+   margin-left: 0px; 
+}
+
+#checkIn_diz
+{
+   width: 250px;
+   height: 0px;
+   margin-top: 0px;
+   margin-left: 0px;
+}
+#comprovante_diz{
+   width: 250px;
+   height: 0px;
+   margin-top: 50px;
+   margin-left: 110px; 
+}
+#dt_lancamento_diz{
+   width: 250px;
+   height: 0px;
+   margin-top: 30px;
+   margin-left: 13px;
+}
+#nome_diz{ 
+   width: 400px;
+   height: 30px;
+   margin-top: -10px;
+   margin-left: 12px;}
+#valor_diz{   
+   width: 250px;
+   height: 0px;
+   margin-top: -15px;
+   margin-left: 11px;}
+#responsavel_diz{  
+   width: 300px;
+   height: 0px;
+   margin-top: -15px;
+   margin-left: 11px;}
+#congregacao_diz{   
+   width: 250px;
+   height: 0px;
+   margin-top: -15px;
+   margin-left: 9px;}

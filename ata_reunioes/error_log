@@ -1,0 +1,31 @@
+[05-Sep-2024 20:27:47 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php on line 22
+[05-Sep-2024 20:27:47 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php on line 22
+[05-Sep-2024 20:27:47 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'adtc2m99_adtc2.reunioes' doesn't exist in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php:26
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php on line 26
+[05-Sep-2024 20:28:22 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php on line 22
+[05-Sep-2024 20:28:22 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php on line 22
+[05-Sep-2024 20:28:22 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'adtc2m99_adtc2.reunioes' doesn't exist in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php:26
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php on line 26
+[05-Sep-2024 20:28:37 America/Fortaleza] PHP Warning:  include(conexao.php): Failed to open stream: No such file or directory in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php on line 22
+[05-Sep-2024 20:28:37 America/Fortaleza] PHP Warning:  include(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php on line 22
+[05-Sep-2024 20:28:37 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'adtc2m99_adtc2.reunioes' doesn't exist in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php:26
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php(26): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php on line 26
+[05-Sep-2024 20:30:06 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'adtc2m99_adtc2.reunioes' doesn't exist in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php:24
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php(24): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php on line 24
+[05-Sep-2024 20:31:18 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'adtc2m99_adtc2.reunioes' doesn't exist in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php:24
+Stack trace:
+#0 /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php(24): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home1/adtc2m99/public_html/sistemas/adtc2/ata_reunioes/excluir_reuniao.php on line 24

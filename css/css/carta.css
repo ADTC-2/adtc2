@@ -1,0 +1,106 @@
+#corpo_geral
+{
+  
+  width:960px;
+  height:1520px; 
+  margin-top:10px;
+  margin-left:63px;
+  
+  
+  
+}
+
+#form_pesquisar
+{
+  margin-left:468px;
+}
+#meu_form_enviar
+{
+  padding:10px;
+
+}
+
+/*------------------------------------- */
+
+#corpo_carta
+{
+  
+  margin-top:977px;
+  width:900px;
+  height:0px;  
+  margin-left:157px;
+  text-align:justify;  
+}
+#cart_texto_corpo1
+{
+  margin-left:33px;
+  margin-top:-742px;
+  width:1212px;
+  height:800px;
+  font-size:34px;
+  font-family: "Times New Roman", Times, serif;
+  line-height:38px;
+
+}
+#assinatura_pastor
+{
+  margin-top:0px;
+  margin-left:0px; 
+
+}
+#nome
+{
+  margin-top:-30px;
+  margin-left:660px; 
+  font-size:29px;
+   font-family: "Times New Roman", Times, serif;
+}
+#nome1
+{
+  margin-top:-19px;
+  margin-left:711px;
+  font-size:29px;
+  font-family: "Times New Roman", Times, serif; 
+}
+#ass_pastor
+{
+  width:690px;
+  height:100px;
+  margin-top:100px;
+  margin-left:489px;  
+}
+#checkbox
+{
+  margin-top:-1127px;
+  margin-left:532px;
+  width:900px; 
+}
+#img_do_fundo
+{
+  width:1555px;
+  height:2200px;
+  margin-top:0px;
+  margin-left:-38px; 
+  background: url("../imagens/img_carteira/borda.jpg") no-repeat ;
+
+}
+#check
+{
+  width:26px;
+  height:31px;
+  margin-top:13px; 
+}
+#logo_sem_fundo
+{
+  width:540px;
+  height:210px;
+  margin-left:-25px;
+  margin-top:-91px;  
+}
+#h1_carta
+{
+  margin-top:86px;
+  margin-left:0px;
+  font-size:29px;
+  font-family: "Times New Roman", Times, serif;  
+}

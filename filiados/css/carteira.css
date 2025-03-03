@@ -1,0 +1,166 @@
+#img_fundo{
+    width: 605px;
+    height: 515px;  
+    border-radius: 0px; 
+   }
+#frente_card{
+    width: 600px;
+    height: 511px;
+    margin-top: 2px;
+    margin-left: 0px; 
+    border: 1px solid #000;
+    border-radius: 14px;    
+}
+#foto{
+    width: 204px;
+    height: 323px;
+    margin-top: 0px;
+    margin-left: 0px;
+   
+}
+#img_foto{
+    width: 136px; 
+    height: 136px;
+    margin-top: -843px;
+    margin-left: 87px;
+    border-radius: 85px;
+    border: 7px solid #fff;
+}
+#nome_carteira{
+    width: 284px;
+    height: 28px;
+   font-size: 18px;
+   font-family: Arial, Helvetica, sans-serif;  
+   color: white;
+   margin-top: -284px;
+   margin-left: -192px;
+  
+}
+#matricula{
+    width: 100px;
+    height: 26px;
+   font-size: 25px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: oblique; 
+   color: white;
+   margin-top: -331px;
+   margin-bottom: 0px;
+   margin-left: 108px;
+   
+}
+#funcao{   
+    width: 284px;
+    height: 28px;
+   font-size: 15px;
+   font-family: Arial, Helvetica, sans-serif;  
+   color: white;
+   margin-top: -262px;
+   margin-left: -284px;
+  
+}
+#congregacao{   
+    width: 284px;
+    height: 28px;
+   font-size: 16px;
+   font-family: Arial, Helvetica, sans-serif;  
+   color: white;
+   margin-top: -243px;
+   margin-left: -284px;
+   
+
+}
+
+
+#nome{
+    width: 296px;
+    height: 20px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;  
+    color: black;
+    margin-top: -419px;
+    margin-left: 308px;   
+}
+#data_Consagracao{
+    width: 90px;
+    height: 17px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;  
+    color: black;
+    margin-top: -402px;
+    margin-left: -148px;
+}
+#documento{    
+    width: 90px;
+    height: 17px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;  
+    color: black;
+    margin-top: -383px;
+    margin-left: -212px; 
+   
+}
+#dataNascimento{   
+    width: 90px;
+    height: 17px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;  
+    color: black;
+    margin-top: -365px;
+    margin-left: -48px;
+   
+}
+#dataBatismo{    
+    width: 90px;
+    height: 17px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;  
+    color: black;
+    margin-top: -347px;
+    margin-left: -110px;
+    
+}
+#estadoCivil{   
+    width: 90px;
+    height: 17px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;  
+    color: black;
+    margin-top: -329px;
+    margin-left: -118px;
+  
+}
+#mae{   
+    width: 290px;
+    height: 18px;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;  
+    color: black;
+    margin-top: -296px;
+    margin-left: -149px;   
+}
+#pai{    
+    width: 290px;
+    height: 18px;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;  
+    color: black;
+    margin-top: -264px;
+    margin-left: 328px;   
+}
+
+.p{
+    text-align: center;    
+}
+@media print {
+    .hide-on-print {
+        display: none;
+    }
+
+    .print-text {
+        position: absolute;
+        z-index: 1; /* Coloca o texto na frente da imagem */
+    }
+}
+
+
+

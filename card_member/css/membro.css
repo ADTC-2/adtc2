@@ -1,0 +1,193 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #f4f4f4;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    perspective: 1000px;
+}
+
+.card {
+    width: 100%;
+    height: 100%;
+    max-width: 330px; /* Define uma largura máxima para o crachá */
+    max-height: 500px; /* Define uma altura máxima para o crachá */
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+    cursor: pointer;
+}
+
+.card-inner {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+}
+
+.card-front, .card-back {
+    position: absolute;
+    width: 330px;
+    height: 500px;
+    border-radius: 10px;
+    backface-visibility: hidden;
+}
+
+.card-front {
+    background: #fff;
+    z-index: 2;
+    transform: rotateY(0deg);
+}
+
+.card-back {
+    width: 330px;
+    height: 500px;
+    border-radius: 10px;
+    background: #fff;
+    transform: rotateY(180deg);
+}
+
+.card-content {
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.rounded-circle {
+    border-radius: 50%;
+    width: 150px; /* Ajuste o tamanho da foto conforme necessário */
+    height: 150px; /* Ajuste o tamanho da foto conforme necessário */
+}
+
+.card p {
+    margin: 5px 0;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+}
+
+.card:hover .card-inner {
+    transform: rotateY(180deg);
+}
+
+#img_foto{
+    width: 173px;
+    height: 175px;
+    margin-top: -699px;
+    margin-left: 74px;
+}
+#matricula{
+    margin-top: -216px;
+    margin-left: 0px;
+
+}
+#frente{
+    width: 330px;
+    height: 500px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 10px;
+}
+#verso{
+    width: 330px;
+    height: 500px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 10px;
+}
+#nome{
+    text-align: center;
+    margin-top: -357px;
+    margin-left: 0px;
+    border-radius: 0px;
+    font-size: 16px;
+    color: #ffffff;
+}
+#data_consagracao{
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 0px;
+    font-size: 12px;
+    color: #ffffff;
+}
+#documento{ 
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 0px;
+    font-size: 12px;
+    color: #ffffff;}
+#data_nascimento{
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 0px;
+    font-size: 12px;
+    color: #ffffff;
+}
+#data_batismo{
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 0px;
+    font-size: 12px;
+    color: #ffffff;
+}
+#estado_civil{
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 0px;
+    font-size: 12px;
+    color: #ffffff;
+}
+#mae{
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 0px;
+    font-size: 12px;
+    color: #ffffff;
+}
+#pai{
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 0px;
+    font-size: 12px;
+    color: #ffffff;
+}
+#matricula{
+    text-align: center;
+    margin-top: -204px;
+    margin-left: 0px;
+    border-radius: 0px;
+    font-size: 30px;
+    color: #ffffff;
+}
+#nome_carteira{
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 0px;
+    font-size: 25px;
+    color: #ffffff;
+}
+#funcao{
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 0px;
+    font-size: 20px;
+    color: #ffffff;
+}
+#congregacao{
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    border-radius: 0px;
+    font-size: 20px;
+    color: #ffffff;
+}
