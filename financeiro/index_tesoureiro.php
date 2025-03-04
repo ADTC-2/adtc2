@@ -127,6 +127,18 @@ if (!isset($_SESSION['nivel']) || ($_SESSION['nivel'] != 'financeiro' && $_SESSI
                                 <p>Consultar | Total</p>
                             </a>
                         </li>
+                        <?php if (
+                                ($_SESSION['nome'] == 'Marcos' || $_SESSION['nome'] == 'Alves') && 
+                                $_SESSION['nivel'] == 'financeiro' && 
+                                $_SESSION['congregacao'] == 'SEDE'
+                            ): ?>
+                                <li class="nav-item">
+                                    <a href="../financeiro/dizimo/tela_relatorio_geral.php" class="nav-link">
+                                        <i class="nav-icon fas fa-chart-bar"></i>
+                                        <p>Relatório Geral</p>
+                                    </a>
+                                </li>
+                        <?php endif; ?>
                         <li class="nav-item">
                             <a href="../sair.php" class="nav-link">
                                 <i class="nav-icon fas fa-sign-out-alt"></i>

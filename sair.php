@@ -1,14 +1,20 @@
 <?php
 session_start();
+
+// Remove todas as variáveis da sessão
+session_unset();
+
+// Destroi a sessão
 session_destroy();
 
-//Remove todas as informações contidas na variaveis globais
-unset($_SESSION['Id'],			
-$_SESSION['nome'], 		
-$_SESSION['login'], 
-$_SESSION['email'], 		
-$_SESSION['senha'],
-$_SESSION['dataCaptura']);
-//redirecionar o usuário para a página de login
-header("Location:login.php");
+// Define cabeçalhos para evitar que o usuário volte
+header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+header("Cache-Control: post-check=0, pre-check=0", false);
+header("Pragma: no-cache");
+header("Expires: Sat, 1 Jan 2000 00:00:00 GMT");
+
+// Redireciona para a página de login
+header("Location: login.php");
+exit();
 ?>
+

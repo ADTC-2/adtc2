@@ -3,7 +3,6 @@ session_start();
 include 'verifica_acesso.php';
 require '../db/config.php';
 
-
 // Verifica se o usuário está autenticado
 if (!isset($_SESSION['nome']) && !isset($_SESSION['senha'])) {
     // Destrói a sessão
@@ -28,33 +27,23 @@ $data_inicio = date('Y-m-d', strtotime($_GET['data_inicio']));
 $data_fim = date('Y-m-d', strtotime($_GET['data_fim']));
 $congregacao = isset($_GET['congregacao']) ? $_GET['congregacao'] : '';
 
-if ($congregacao === "Alves" || $congregacao === "Marcos") {
-    $sqlDizimo = "SELECT * FROM dizimo WHERE dataCaptura BETWEEN :data_inicio AND :data_fim";
-} else {
-    $sqlDizimo = "SELECT * FROM dizimo WHERE congregacao=:congregacao AND dataCaptura BETWEEN :data_inicio AND :data_fim";
-}
+// Agora sempre irá filtrar pela congregação informada
+$sqlDizimo = "SELECT * FROM dizimo WHERE congregacao=:congregacao AND dataCaptura BETWEEN :data_inicio AND :data_fim";
+$sqlOfertas = "SELECT * FROM ofertas WHERE congregacao=:congregacao AND dataOferta BETWEEN :data_inicio AND :data_fim";
 
-if ($congregacao === "Alves" || $congregacao === "Marcos") {
-    $sqlOfertas = "SELECT * FROM ofertas WHERE dataOferta BETWEEN :data_inicio AND :data_fim";
-} else {
-    $sqlOfertas = "SELECT * FROM ofertas WHERE congregacao=:congregacao AND dataOferta BETWEEN :data_inicio AND :data_fim";
-}
-
+// Consulta para os Dízimos
 $stmtDizimo = $pdo->prepare($sqlDizimo);
 $stmtDizimo->bindParam(':data_inicio', $data_inicio);
 $stmtDizimo->bindParam(':data_fim', $data_fim);
-if ($congregacao !== "Alves" && $congregacao !== "Marcos") {
-    $stmtDizimo->bindParam(':congregacao', $congregacao);
-}
+$stmtDizimo->bindParam(':congregacao', $congregacao);
 $stmtDizimo->execute();
 $dizimos = $stmtDizimo->fetchAll(PDO::FETCH_ASSOC);
 
+// Consulta para as Ofertas
 $stmtOfertas = $pdo->prepare($sqlOfertas);
 $stmtOfertas->bindParam(':data_inicio', $data_inicio);
 $stmtOfertas->bindParam(':data_fim', $data_fim);
-if ($congregacao !== "Alves" && $congregacao !== "Marcos") {
-    $stmtOfertas->bindParam(':congregacao', $congregacao);
-}
+$stmtOfertas->bindParam(':congregacao', $congregacao);
 $stmtOfertas->execute();
 $ofertas = $stmtOfertas->fetchAll(PDO::FETCH_ASSOC);
 
@@ -241,7 +230,7 @@ $totalGeral = $totalDizimos + $totalOfertas;
 
         <!-- Botões -->
         <div class="mt-4">
-            <a id="botao" href="../financeiro/dizimo/lancamentos.php" class="btn btn-primary mr-2">
+            <a id="botao" href="../financeiro/index_tesoureiro.php" class="btn btn-primary mr-2">
                 <i class="fas fa-arrow-left"></i> Voltar
             </a>
             <button id="imprimir" class="btn btn-success" onclick="imprimir()">Imprimir</button>
@@ -293,5 +282,6 @@ $totalGeral = $totalDizimos + $totalOfertas;
 </body>
 
 </html>
+
 
 
